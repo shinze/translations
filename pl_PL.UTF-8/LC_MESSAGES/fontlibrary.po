@@ -40,7 +40,7 @@ msgstr "Najpierw <a href=\"%1$s\">stwórz rodzinę czcionek</a> potem dodaj swoj
 
 #. catalogue
 #: 
-msgid "Font Catalogue for the Open Font Library"
+msgid "Font Catalogue for the Font Library"
 msgstr ""
 
 #. catalogue
@@ -165,7 +165,7 @@ msgstr "Fabricatorz, Christopher Adams, Dave Crossland, Jon Phillips i wielu cz�
 
 #. credits
 #: 
-msgid "Credits for the Open Font Library"
+msgid "Credits for the Font Library"
 msgstr ""
 
 #. dashboard
@@ -543,7 +543,8 @@ msgstr "Polecane Czcionki"
 
 #. homepage
 #: 
-msgid "The Open Font Library promotes your freedoms as it relates to the use of type. All the fonts that appear on this site come with the freedom to use, study, share and remix them. Browse our catalogue and see what's new."
+#, fuzzy
+msgid "The Font Library promotes your freedoms as it relates to the use of type. All the fonts that appear on this site come with the freedom to use, study, share and remix them. Browse our catalogue and see what's new."
 msgstr "Otwarta Biblioteka Czcionek promuje twoje wolności w odniesieniu do typografii. Wszystkie czcionki pojawiające się na tej stronie mogą być swobodnie używane, analizowane, współdzielone i poddawane przeróbkom. Przejrzyj nasz katalog i zobacz co jest w nim nowego."
 
 #. homepage
@@ -622,7 +623,8 @@ msgstr "Przeglądaj Kompletny Katalog"
 
 #. homepage
 #: 
-msgid "The mission of the Open Font Library is to promote your freedoms as it relates to the use of type. All of the fonts that appear on this site come with the freedom to use, study, share and remix them."
+#, fuzzy
+msgid "The mission of the Font Library is to promote your freedoms as it relates to the use of type. All of the fonts that appear on this site come with the freedom to use, study, share and remix them."
 msgstr "Celem Wolnej Biblioteki Czcionek jest promocja wolności związana z użyciem typografii. Wszystkie czcionki, które są na stronie dają prawo do analizy, dzielenia się i modyfikacji."
 
 #. homepage
@@ -648,12 +650,12 @@ msgstr "Przetłumacz stronę"
 
 #. homepage
 #: 
-msgid "Open Font Library is all fonts. Free Downloads and Quality Support."
+msgid "Font Library is all fonts. Free Downloads and Quality Support."
 msgstr ""
 
 #. homepage
 #: 
-msgid "The Open Font Library is ALL fonts."
+msgid "The Font Library is all fonts."
 msgstr ""
 
 #. homepage
@@ -743,7 +745,7 @@ msgstr ""
 
 #. language
 #: 
-msgid "Languages and Orthographies for the Open Font Library"
+msgid "Languages and Orthographies for the Font Library"
 msgstr ""
 
 #. member
@@ -853,7 +855,8 @@ msgstr "Czcionki wymienione dalej są aktualnie poddawane inspekcji."
 
 #. member
 #: 
-msgid "user member page on the Open Font Library"
+#, fuzzy
+msgid "user member page on the Font Library"
 msgstr "user member page on the Open Font Library"
 
 #. member
@@ -1018,7 +1021,8 @@ msgstr "Dołącz"
 
 #. sign up
 #: 
-msgid "The mission of the Open Font Library is to promote your freedoms as it relates to the use of type."
+#, fuzzy
+msgid "The mission of the Font Library is to promote your freedoms as it relates to the use of type."
 msgstr "Celem Wolnej Biblioteki Czcionek jest promocja wolności związana z użyciem typografii."
 
 #. sign up
@@ -1263,6 +1267,7 @@ msgstr ""
 
 #. member
 #: 
+#, fuzzy
 msgid "Welcome to the Open Font Library!"
 msgstr "Witaj w Otwartej Bibliotece Czcionek!"
 
