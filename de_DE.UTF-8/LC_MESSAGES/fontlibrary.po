@@ -40,7 +40,7 @@ msgstr "Zuerst <a href=\"%1$s\">eine Schrift-Familie erstellen</a>, dann lädst 
 
 #. catalogue
 #: 
-msgid "Font Catalogue for the Open Font Library"
+msgid "Font Catalogue for the Font Library"
 msgstr ""
 
 #. catalogue
@@ -166,7 +166,8 @@ msgstr "Fabricatorz, Christopher Adams, Dave Crossland, Jon Phillips und viele M
 
 #. credits
 #: 
-msgid "Credits for the Open Font Library"
+#, fuzzy
+msgid "Credits for the Font Library"
 msgstr "Credits for the Open Font Library"
 
 #. dashboard
@@ -543,7 +544,8 @@ msgstr "Unsere Favoriten"
 
 #. homepage
 #: 
-msgid "The Open Font Library promotes your freedoms as it relates to the use of type. All the fonts that appear on this site come with the freedom to use, study, share and remix them. Browse our catalogue and see what's new."
+#, fuzzy
+msgid "The Font Library promotes your freedoms as it relates to the use of type. All the fonts that appear on this site come with the freedom to use, study, share and remix them. Browse our catalogue and see what's new."
 msgstr "Die Open Font Library setzt sich für deine Freiheiten in Bezug auf Typographie ein. Alle Schriften die du hier findest lassen dir die Freiheit sie zu benutzen, untersuchen, teilen und zu remixen. Wirf einen Blick in unseren Katalog und schau dir die neuen Schriften an."
 
 #. homepage
@@ -619,7 +621,8 @@ msgstr "Den kompletten Katalog betrachten"
 
 #. homepage
 #: 
-msgid "The mission of the Open Font Library is to promote your freedoms as it relates to the use of type. All of the fonts that appear on this site come with the freedom to use, study, share and remix them."
+#, fuzzy
+msgid "The mission of the Font Library is to promote your freedoms as it relates to the use of type. All of the fonts that appear on this site come with the freedom to use, study, share and remix them."
 msgstr "Die Mission der Open Font Library ist deine Freiheit zu fördern, da es vom Typ der Nutzung abhängt. Alle Schriften die auf dieser Seite erscheinen kommen mit der Freiheit der Nutzung, des Studierens, Teilens und Remixens der Schriften."
 
 #. homepage
@@ -645,12 +648,12 @@ msgstr "Seite übersetzen"
 
 #. homepage
 #: 
-msgid "Open Font Library is all fonts. Free Downloads and Quality Support."
+msgid "Font Library is all fonts. Free Downloads and Quality Support."
 msgstr ""
 
 #. homepage
 #: 
-msgid "The Open Font Library is ALL fonts."
+msgid "The Font Library is all fonts."
 msgstr ""
 
 #. homepage
@@ -740,7 +743,7 @@ msgstr ""
 
 #. language
 #: 
-msgid "Languages and Orthographies for the Open Font Library"
+msgid "Languages and Orthographies for the Font Library"
 msgstr ""
 
 #. member
@@ -850,7 +853,7 @@ msgstr "Die folgenden Schriften werden momentan überprüft."
 
 #. member
 #: 
-msgid "user member page on the Open Font Library"
+msgid "user member page on the Font Library"
 msgstr ""
 
 #. member
@@ -1015,7 +1018,8 @@ msgstr "Beitreten"
 
 #. sign up
 #: 
-msgid "The mission of the Open Font Library is to promote your freedoms as it relates to the use of type."
+#, fuzzy
+msgid "The mission of the Font Library is to promote your freedoms as it relates to the use of type."
 msgstr "Die Mission der Open Font Library ist deine Freiheit zu fördern, da es vom Typ der Nutzung abhängt."
 
 #. sign up
