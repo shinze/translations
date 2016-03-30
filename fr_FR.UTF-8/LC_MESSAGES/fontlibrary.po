@@ -1206,3 +1206,53 @@ msgstr ""
 msgid "Sign up"
 msgstr ""
 
+#: 
+msgctxt "font category"
+msgid "Serif"
+msgstr "Empattement"
+
+#: 
+msgctxt "font category"
+msgid "Sans-serif"
+msgstr "Linéale"
+
+#: 
+msgctxt "font category"
+msgid "Handwriting"
+msgstr "Écriture"
+
+#: 
+msgctxt "font category"
+msgid "Display"
+msgstr "Affichage"
+
+#: 
+msgctxt "font category"
+msgid "Monospaced"
+msgstr "Chasse fixe"
+
+#: 
+msgctxt "font category"
+msgid "Dingbat"
+msgstr "Ornement"
+
+#: 
+msgctxt "font category"
+msgid "Blackletter"
+msgstr "Gothique"
+
+#: 
+msgctxt "social media"
+msgid "Follow on <a href=\"%1$s\">Twitter</a>"
+msgstr "Suivez-nous sur <a href=\"%1$s\">Twitter</a>"
+
+#: 
+msgctxt "social media"
+msgid "Like on <a href=\"%1$s\">Facebook</a>"
+msgstr "Rejoignez-nous sur<a href=\"%1$s\">Facebook</a>"
+
+#: 
+msgctxt "social media"
+msgid "Pin on <a href=\"%1$s\">Pinterest</a>"
+msgstr "Retrouvez-nous sur <a href=\"%1$s\">Pinterest</a>"
+
