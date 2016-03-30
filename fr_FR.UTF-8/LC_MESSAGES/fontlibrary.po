@@ -661,7 +661,7 @@ msgstr ""
 #. homepage
 #: 
 msgid "Popular Fonts"
-msgstr ""
+msgstr "Polices Populaires"
 
 #. language
 #: 
@@ -706,7 +706,7 @@ msgstr "Languages"
 #. language
 #: 
 msgid "Cyrillic"
-msgstr ""
+msgstr "Cyrillique"
 
 #. language
 #: 
@@ -716,22 +716,22 @@ msgstr "Euro"
 #. language
 #: 
 msgid "Greek"
-msgstr ""
+msgstr "Grec"
 
 #. language
 #: 
 msgid "Thai"
-msgstr ""
+msgstr "Thaï"
 
 #. language
 #: 
 msgid "Turkish"
-msgstr ""
+msgstr "Turc"
 
 #. language
 #: 
 msgid "Vietnamese"
-msgstr "Vietnamese"
+msgstr "Vietnamien"
 
 #. language
 #: 
@@ -756,7 +756,7 @@ msgstr "On dirait que %1$s n'as pas encore proposé de police."
 #. member
 #: 
 msgid "Welcome to the Font Library!"
-msgstr ""
+msgstr "Bienvenue à Font Library!"
 
 #. member
 #: 
