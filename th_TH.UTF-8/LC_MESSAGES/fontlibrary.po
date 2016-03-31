@@ -1194,3 +1194,43 @@ msgstr "เซ็นชื่อเข้า"
 msgid "Sign up"
 msgstr "Sign up"
 
+#: 
+msgid "Serif"
+msgstr ""
+
+#: 
+msgid "Sans-serif"
+msgstr ""
+
+#: 
+msgid "Handwriting"
+msgstr ""
+
+#: 
+msgid "Display"
+msgstr ""
+
+#: 
+msgid "Monospaced"
+msgstr ""
+
+#: 
+msgid "Dingbat"
+msgstr ""
+
+#: 
+msgid "Blackletter"
+msgstr ""
+
+#: 
+msgid "Follow on <a href=\"%1$s\">Twitter</a>"
+msgstr ""
+
+#: 
+msgid "Like on <a href=\"%1$s\">Facebook</a>"
+msgstr ""
+
+#: 
+msgid "Pin on <a href=\"%1$s\">Pinterest</a>"
+msgstr ""
+
