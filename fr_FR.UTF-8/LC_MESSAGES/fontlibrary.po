@@ -1240,7 +1240,7 @@ msgstr "Suivez-nous sur <a href=\"%1$s\">Twitter</a>"
 
 #: 
 msgid "Like on <a href=\"%1$s\">Facebook</a>"
-msgstr "Rejoignez-nous sur<a href=\"%1$s\">Facebook</a>"
+msgstr "Rejoignez-nous sur <a href=\"%1$s\">Facebook</a>"
 
 #: 
 msgid "Pin on <a href=\"%1$s\">Pinterest</a>"
