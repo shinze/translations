@@ -335,6 +335,40 @@ msgstr[1] "%1$s wurde von <a href=\"%2$s\">%3$s</a> %4$d Tage hinzugefügt vor"
 
 #. font
 #: 
+msgid "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>added today</span>"
+msgstr "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>heute hinzugefügt</span>"
+
+#. font
+#: 
+msgid "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>updated today</span>"
+msgstr "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>heute aktualisiert</span>"
+
+#. font
+#: 
+msgid "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>added yesterday</span>"
+msgstr "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>gestern hinzugefügt</span>"
+
+#. font
+#: 
+msgid "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>updated yesterday</span>"
+msgstr "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>gestern aktualisiert</span>"
+
+#. font
+#: 
+msgid "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>added %3$d day ago</span>"
+msgid_plural "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>added %3$d days ago</span>"
+msgstr[0] "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>%3$d Tag hinzugefügt</span>"
+msgstr[1] "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>%3$d Tage hinzugefügt</span>"
+
+#. font
+#: 
+msgid "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>updated %3$d day ago</span>"
+msgid_plural "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>updated %3$d day ago</span>"
+msgstr[0] "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>%3$d Tag aktualisiert</span>"
+msgstr[1] "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>%3$d Tage aktualisiert</span>"
+
+#. font
+#: 
 msgid "Download %1$s"
 msgstr "Herunterladen von %1$s"
 
@@ -391,11 +425,6 @@ msgstr ""
 #. font
 #: 
 msgid "Designer"
-msgstr ""
-
-#. font
-#: 
-msgid "Full Language Support"
 msgstr ""
 
 #. font
@@ -462,6 +491,13 @@ msgstr "Unterfamilie"
 #: 
 msgid "Style"
 msgstr "Schnitt"
+
+#. font style
+#: 
+msgid "%1$d style"
+msgid_plural "%1$d styles"
+msgstr[0] "%1$d Schnitt"
+msgstr[1] "%1$d Schnitte"
 
 #. font style
 #: 
@@ -681,6 +717,21 @@ msgstr "Einfaches Latein"
 #: 
 msgid "Language Support"
 msgstr "Sprach-Unterstützung"
+
+#. language
+#: 
+msgid "Full Language Support"
+msgstr "Volle Sprach-Unterstützung"
+
+#. language
+#: 
+msgid "Partial Language Support"
+msgstr "Teil Sprach-Unterstützung"
+
+#. language
+#: 
+msgid "No Language Support"
+msgstr "Keine Sprach-Unterstützung"
 
 #. language
 #: 

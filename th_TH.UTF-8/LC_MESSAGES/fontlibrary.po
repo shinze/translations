@@ -331,6 +331,30 @@ msgstr[0] "%1$s ถูกบันทึกโดย <a href=\"%2$s\">%3$s</a> %
 
 #. font
 #: 
+msgid "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>added yesterday</span>"
+msgstr ""
+
+#. font
+#: 
+msgid "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>updated yesterday</span>"
+msgstr ""
+
+#. font
+#: 
+msgid "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>added %3$d day ago</span>"
+msgid_plural "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>added %3$d days ago</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. font
+#: 
+msgid "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>updated %3$d day ago</span>"
+msgid_plural "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>updated %3$d day ago</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. font
+#: 
 msgid "Download %1$s"
 msgstr "ดาวน์โหลด %1$s"
 
@@ -388,11 +412,6 @@ msgstr "Bold"
 #: 
 msgid "Designer"
 msgstr "Designer"
-
-#. font
-#: 
-msgid "Full Language Support"
-msgstr "Full Language Support"
 
 #. font
 #: 
@@ -457,7 +476,13 @@ msgstr "Subfamily"
 #. font style
 #: 
 msgid "Style"
-msgstr "Style"
+msgstr "รูปแบบ"
+
+#. font style
+#: 
+msgid "%1$d style"
+msgid_plural "%1$d styles"
+msgstr[0] "%1$d รูปแบบ"
 
 #. font style
 #: 
@@ -672,6 +697,21 @@ msgstr "ละตินเบื้องต้น"
 #: 
 msgid "Language Support"
 msgstr "หน่วยสนับสนุนทางภาษา"
+
+#. language
+#: 
+msgid "Full Language Support"
+msgstr ""
+
+#. language
+#: 
+msgid "Partial Language Support"
+msgstr ""
+
+#. language
+#: 
+msgid "No Language Support"
+msgstr ""
 
 #. language
 #: 

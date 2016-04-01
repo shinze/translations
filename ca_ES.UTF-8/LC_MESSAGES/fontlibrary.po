@@ -462,6 +462,13 @@ msgstr ""
 
 #. font style
 #: 
+msgid "%1$d style"
+msgid_plural "%1$d styles"
+msgstr[0] ""
+msgstr[1] ""
+
+#. font style
+#: 
 msgid "Weight"
 msgstr ""
 
