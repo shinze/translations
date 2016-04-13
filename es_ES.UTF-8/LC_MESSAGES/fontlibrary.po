@@ -99,7 +99,7 @@ msgstr "Archivo Zip"
 #: 
 #, fuzzy
 msgid "Tell us the name of your font. If it includes more than one variant or style, supply the name for the entire font family. Please give it a name using Latin letters, as this will be used to set the URL for your font. You can change your font's display name later from its settings page."
-msgstr "Dinos el nombre de tu fuente. Si incluye más de una variante o estilo, indica el nombre de la familia completa. Por favor dale un nombre usando letras latinas, ya que esto será usado para definir la URL de tu fuente. Puedes cambiar el nombre para mostrar de tu fuente más tarde desde su página de ajustes."
+msgstr "Dinos el nombre de tu fuente. Si incluye más de una variante o estilo, indica el nombre de la familia completa. Por favor dale un nombre usando letras latinas, ya que esto será usado para definir la URL de tu fuente. Más tarde puedes cambiar el nombre mostrado de tu fuente desde su página de ajustes."
 
 #. create
 #: 
@@ -111,7 +111,7 @@ msgstr "Danos una descripción de un párrafo de tu fuente."
 #: 
 #, fuzzy
 msgid "We require submissions to include at least one font file in OTF or TTF format. Make sure each font file includes your name, URL, copyright and a supported <a href=\"%1$s\">free font license</a>."
-msgstr "Requerimos que los envíos incluyan al menos un archivo de fuentes en formato OTF o TTF. Asegúrate de que cada archivo de fuentes incluye tu nombre, URL, copyright y una soportada <a href=\"%1$s\">licencia de tipografía libre</a>."
+msgstr "Requerimos que los envíos incluyan al menos un archivo de fuentes en formato OTF o TTF. Asegúrate de que cada archivo de fuentes incluye tu nombre, URL, copyright y una <a href=\"%1$s\">licencia de tipografía libre</a> compatible."
 
 #. create
 #: 
@@ -211,13 +211,13 @@ msgstr "Actualizar"
 #. edit
 #: 
 msgid "If you have released a new version of your font, please package it in a fresh zip file and upload it using this form. Make sure the new zip contains a copy of all of the files that you want your users to download."
-msgstr "Si has liberado una nueva versión de tu fuente, por favor empácala en un archivo zip nuevo y súbela usando este formulario. Asegúrate de que el nuevo zip contiene una copia de todos los archivos que quieres que tus usuarios descarguen."
+msgstr "Si has sacado una nueva versión de tu fuente, por favor empácala en un archivo zip nuevo y súbela usando este formulario. Asegúrate de que el nuevo zip contiene una copia de todos los archivos que quieres que tus usuarios descarguen."
 
 #. error
 #: 
 #, fuzzy
 msgid "report a bug"
-msgstr "Reporta un bug"
+msgstr "Reporta un fallo"
 
 #. error
 #: 
@@ -242,7 +242,7 @@ msgstr "Frase"
 #. font
 #: 
 msgid "Paragraph"
-msgstr "Párrafos"
+msgstr "Párrafo"
 
 #. font
 #: 
@@ -333,7 +333,7 @@ msgstr "Acerca de"
 #: 
 msgid "%1$s was added by <a href=\"%2$s\">%3$s</a> %4$d day ago"
 msgid_plural "%1$s was added by <a href=\"%2$s\">%3$s</a> %4$d days ago"
-msgstr[0] "%1$s fue agregada por <a href=\"%2$s\">%3$s</a> hace %4$d hora"
+msgstr[0] "%1$s fue agregada por <a href=\"%2$s\">%3$s</a> hace %4$d día"
 msgstr[1] "%1$s fue agregada por <a href=\"%2$s\">%3$s</a> hace %4$d días"
 
 #. font
