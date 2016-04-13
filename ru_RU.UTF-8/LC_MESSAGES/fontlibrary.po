@@ -334,30 +334,6 @@ msgstr[3] ""
 
 #. font
 #: 
-msgid "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>added yesterday</span>"
-msgstr ""
-
-#. font
-#: 
-msgid "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>updated yesterday</span>"
-msgstr ""
-
-#. font
-#: 
-msgid "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>added %3$d day ago</span>"
-msgid_plural "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>added %3$d days ago</span>"
-msgstr[0] ""
-msgstr[1] ""
-
-#. font
-#: 
-msgid "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>updated %3$d day ago</span>"
-msgid_plural "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>updated %3$d day ago</span>"
-msgstr[0] ""
-msgstr[1] ""
-
-#. font
-#: 
 msgid "Download %1$s"
 msgstr "Скачать %1$s"
 
@@ -414,6 +390,11 @@ msgstr ""
 #. font
 #: 
 msgid "Designer"
+msgstr ""
+
+#. font
+#: 
+msgid "Full Language Support"
 msgstr ""
 
 #. font
@@ -480,15 +461,6 @@ msgstr ""
 #: 
 msgid "Style"
 msgstr "стиль"
-
-#. font style
-#: 
-msgid "%1$d style"
-msgid_plural "%1$d styles"
-msgstr[0] "%1$d стиль"
-msgstr[1] "%1$d стиля"
-msgstr[2] "%1$d стилей"
-msgstr[3] "%1$d стили"
 
 #. font style
 #: 
@@ -712,21 +684,6 @@ msgstr "Основной латинский"
 #. language
 #: 
 msgid "Language Support"
-msgstr ""
-
-#. language
-#: 
-msgid "Full Language Support"
-msgstr ""
-
-#. language
-#: 
-msgid "Partial Language Support"
-msgstr ""
-
-#. language
-#: 
-msgid "No Language Support"
 msgstr ""
 
 #. language
@@ -1288,5 +1245,66 @@ msgstr ""
 
 #: 
 msgid "Pin on <a href=\"%1$s\">Pinterest</a>"
+msgstr ""
+
+#. font
+#: 
+msgid "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>added today</span>"
+msgstr ""
+
+#. font
+#: 
+msgid "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>updated today</span>"
+msgstr ""
+
+#. font
+#: 
+msgid "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>added yesterday</span>"
+msgstr ""
+
+#. font
+#: 
+msgid "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>updated yesterday</span>"
+msgstr ""
+
+#. font
+#: 
+msgid "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>added %3$d day ago</span>"
+msgid_plural "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>added %3$d days ago</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+#. font
+#: 
+msgid "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>updated %3$d day ago</span>"
+msgid_plural "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>updated %3$d day ago</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+#. font style
+#: 
+msgid "%1$d style"
+msgid_plural "%1$d styles"
+msgstr[0] "%1$d стиль"
+msgstr[1] "%1$d стиля"
+msgstr[2] "%1$d стилей"
+msgstr[3] "%1$d стили"
+
+#. language
+#: 
+msgid "Partial Language Support"
+msgstr ""
+
+#. language
+#: 
+msgid "No Language Support"
+msgstr ""
+
+#: 
+msgid "Contact us"
 msgstr ""
 
