@@ -42,12 +42,12 @@ msgstr "Primero <a href=\"%1$s\">crea una familia de fuentes</a>, entonces sube 
 #: 
 #, fuzzy
 msgid "Font Catalogue for the Font Library"
-msgstr "Font Catalogue for the Open Font Library"
+msgstr "Catálogo de fuentes para Font Lybrary"
 
 #. catalogue
 #: 
 msgid "Public Domain (not a license)"
-msgstr ""
+msgstr "Dominio público (no una licencia)"
 
 #. contact
 #: 
@@ -81,6 +81,7 @@ msgstr "Usa este formulario para contactar <a href=\"%1$s\">%2$s</a>."
 
 #. contact
 #: 
+#, fuzzy
 msgid "We will send a message on your behalf with the address we have on file."
 msgstr "Te enviaremos un mensaje de nuestra parte con la dirección que tenemos archivada."
 
@@ -102,11 +103,13 @@ msgstr "Dinos el nombre de tu fuente. Si incluye más de una variante o estilo, 
 
 #. create
 #: 
+#, fuzzy
 msgid "Give us a one-paragraph description of your font."
 msgstr "Danos una descripción de un párrafo de tu fuente."
 
 #. create
 #: 
+#, fuzzy
 msgid "We require submissions to include at least one font file in OTF or TTF format. Make sure each font file includes your name, URL, copyright and a supported <a href=\"%1$s\">free font license</a>."
 msgstr "Requerimos que los envíos incluyan al menos un archivo de fuentes en formato OTF o TTF. Asegúrate de que cada archivo de fuentes incluye tu nombre, URL, copyright y una soportada <a href=\"%1$s\">licencia de tipografía libre</a>."
 
@@ -168,7 +171,7 @@ msgstr "Fabricatorz, Christopher Adams, Dave Crossland, Jon Phillips y muchos mi
 #. credits
 #: 
 msgid "Credits for the Font Library"
-msgstr ""
+msgstr "Créditos para Font Lybrary"
 
 #. dashboard
 #: 
@@ -212,6 +215,7 @@ msgstr "Si has liberado una nueva versión de tu fuente, por favor empácala en 
 
 #. error
 #: 
+#, fuzzy
 msgid "report a bug"
 msgstr "Reporta un bug"
 
@@ -334,30 +338,6 @@ msgstr[1] "%1$s fue agregada por <a href=\"%2$s\">%3$s</a> hace %4$d días"
 
 #. font
 #: 
-msgid "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>added yesterday</span>"
-msgstr ""
-
-#. font
-#: 
-msgid "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>updated yesterday</span>"
-msgstr ""
-
-#. font
-#: 
-msgid "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>added %3$d day ago</span>"
-msgid_plural "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>added %3$d days ago</span>"
-msgstr[0] ""
-msgstr[1] ""
-
-#. font
-#: 
-msgid "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>updated %3$d day ago</span>"
-msgid_plural "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>updated %3$d day ago</span>"
-msgstr[0] ""
-msgstr[1] ""
-
-#. font
-#: 
 msgid "Download %1$s"
 msgstr "Descargar %1$s"
 
@@ -394,32 +374,38 @@ msgstr "Esta fuente está actualmente bajo revisión. Ha sido marcada como %1$s.
 #. font
 #: 
 msgid "Share"
-msgstr ""
+msgstr "Compartir"
 
 #. font
 #: 
 msgid "Active"
-msgstr ""
+msgstr "Activar"
 
 #. font
 #: 
 msgid "Publication Date"
-msgstr ""
+msgstr "Fecha de publicación"
 
 #. font
 #: 
 msgid "Bold"
-msgstr ""
+msgstr "Negrita"
 
 #. font
 #: 
 msgid "Designer"
-msgstr ""
+msgstr "Diseñador"
+
+#. font
+#: 
+#, fuzzy
+msgid "Full Language Support"
+msgstr "Soporte de Idiomas completa"
 
 #. font
 #: 
 msgid "Light"
-msgstr ""
+msgstr "Light"
 
 #. font
 #: 
@@ -434,27 +420,27 @@ msgstr "Aquí hay un ejemplo de un párrafo escrito con %1$s."
 #. font
 #: 
 msgid "Regular"
-msgstr ""
+msgstr "Regular"
 
 #. font sample
 #: 
 msgid "Five quacking zephyrs jolt my wax bed."
-msgstr ""
+msgstr "Jovencillo emponzoñado de whisky: ¡qué figurota exhibe! "
 
 #. font sample
 #: 
 msgid "But the black kitten had been finished with earlier in the afternoon, and so, while Alice was sitting curled up in a corner of the great arm-chair, half talking to herself and half asleep, the kitten had been having a grand game of romps with the ball of worsted Alice had been trying to wind up, and had been rolling it up and down till it had all come undone again; and there it was, spread over the hearth-rug, all knots and tangles, with the kitten running after its own tail in the middle."
-msgstr ""
+msgstr "Con estas razones perdía el pobre caballero el juicio, y desvelábase por entenderlas y desentrañarles el sentido, que no se lo sacara ni las entendiera el mesmo Aristóteles, si resucitara para sólo ello. No estaba muy bien con las heridas que don Belianís daba y recebía, porque se imaginaba que, por grandes maestros que le hubiesen curado, no dejaría de tener el rostro y todo el cuerpo lleno de cicatrices y señales. Pero, con todo, alababa en su autor aquel acabar su libro con la promesa de aquella inacabable aventura, y muchas veces le vino deseo de tomar la pluma y dalle fin al pie de la letra, como allí se promete;"
 
 #. font sample
 #: 
 msgid "Handgloves"
-msgstr ""
+msgstr "Handgloves"
 
 #. font sample
 #: 
 msgid "Heavy boxes perform quick waltzes and jigs."
-msgstr ""
+msgstr "El veloz murciélago hindú comía feliz cardillo y kiwi. La cigüeña tocaba el saxofón detrás del palenque de paja."
 
 #. font sample
 #: 
@@ -464,7 +450,7 @@ msgstr "Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx 
 #. font sample
 #: 
 msgid "Somehow, although he is the smallest office boy around the place, none of the other lads pick on him. Scuffling and fighting almost has ceased since Kerensky came to work. That's only one of the nicknames of Leo Kobreen, and was assigned to him because of a considerable facial resemblance to the perpetually fleeing Russian statesman, and, too, because both wore quite formal standing collars."
-msgstr ""
+msgstr "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim."
 
 #. font style
 #: 
@@ -485,13 +471,6 @@ msgstr "Estilo"
 #: 
 msgid "Weight"
 msgstr "Peso"
-
-#. font style
-#: 
-msgid "%1$d style"
-msgid_plural "%1$d styles"
-msgstr[0] "%1$d estilo"
-msgstr[1] "%1$d estilos"
 
 #. font style
 #: 
@@ -531,7 +510,7 @@ msgstr "Diseñado por %1$s"
 #. footer
 #: 
 msgid "Email us"
-msgstr ""
+msgstr "Envíanos un correo electrónico"
 
 #. header
 #: 
@@ -706,21 +685,6 @@ msgstr "Latino Básico"
 #: 
 msgid "Language Support"
 msgstr "Soporte de Idiomas"
-
-#. language
-#: 
-msgid "Full Language Support"
-msgstr "Soporte de Idiomas completa"
-
-#. language
-#: 
-msgid "Partial Language Support"
-msgstr "Soporte de Idiomas parcial"
-
-#. language
-#: 
-msgid "No Language Support"
-msgstr "Sin Soporte de idiomas"
 
 #. language
 #: 
@@ -1283,4 +1247,59 @@ msgstr ""
 #: 
 msgid "Pin on <a href=\"%1$s\">Pinterest</a>"
 msgstr ""
+
+#. font
+#: 
+msgid "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>added today</span>"
+msgstr ""
+
+#. font
+#: 
+msgid "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>updated today</span>"
+msgstr ""
+
+#. font
+#: 
+msgid "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>added yesterday</span>"
+msgstr ""
+
+#. font
+#: 
+msgid "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>updated yesterday</span>"
+msgstr ""
+
+#. font
+#: 
+msgid "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>added %3$d day ago</span>"
+msgid_plural "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>added %3$d days ago</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. font
+#: 
+msgid "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>updated %3$d day ago</span>"
+msgid_plural "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>updated %3$d day ago</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. font style
+#: 
+msgid "%1$d style"
+msgid_plural "%1$d styles"
+msgstr[0] "%1$d estilo"
+msgstr[1] "%1$d estilos"
+
+#. language
+#: 
+msgid "Partial Language Support"
+msgstr "Soporte de Idiomas parcial"
+
+#. language
+#: 
+msgid "No Language Support"
+msgstr "Sin Soporte de idiomas"
+
+#: 
+msgid "Contact us"
+msgstr "Contáctanos"
 
