@@ -638,8 +638,8 @@ msgstr "Junte-se ao esforço de tradução"
 
 #. homepage
 #: 
-msgid "translate the site"
-msgstr "traduzir este site"
+msgid "Translate the site"
+msgstr "Traduzir este site"
 
 #. homepage
 #: 
