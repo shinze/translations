@@ -42,7 +42,7 @@ msgstr "D'abord <a href=\"%1$s\">créez une famille</a> de police puis téléver
 #: 
 #, fuzzy
 msgid "Font Catalogue for the Font Library"
-msgstr "Catalogue de polices pour Open Font Library"
+msgstr "Catalogue de polices pour Font Library"
 
 #. catalogue
 #: 
@@ -169,7 +169,7 @@ msgstr "Fabricatorz, Christopher Adams, Dave Crossland, Jon Phillips et bien d'a
 #: 
 #, fuzzy
 msgid "Credits for the Font Library"
-msgstr "Crédits pour Open Font Library"
+msgstr "Crédits pour Font Library"
 
 #. dashboard
 #: 
@@ -335,40 +335,6 @@ msgstr[1] "%1$s a été ajouté par <a href=\"%2$s\">%3$s</a> il y a %4$d jours"
 
 #. font
 #: 
-msgid "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>added today</span>"
-msgstr "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>ajouté aujourd'hui</span>"
-
-#. font
-#: 
-msgid "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>updated today</span>"
-msgstr "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>actualisé aujourd'hui</span>"
-
-#. font
-#: 
-msgid "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>added yesterday</span>"
-msgstr "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>ajouté hier</span>"
-
-#. font
-#: 
-msgid "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>updated yesterday</span>"
-msgstr "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>actualisé hier</span>"
-
-#. font
-#: 
-msgid "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>added %3$d day ago</span>"
-msgid_plural "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>added %3$d days ago</span>"
-msgstr[0] "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>ajouté il y a %3$d jour</span>"
-msgstr[1] "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>ajouté il y a %3$d jours</span>"
-
-#. font
-#: 
-msgid "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>updated %3$d day ago</span>"
-msgid_plural "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>updated %3$d day ago</span>"
-msgstr[0] "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>actualisé il y a %3$d jour</span>"
-msgstr[1] "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>actualisé il y a %3$d jours</span>"
-
-#. font
-#: 
 msgid "Download %1$s"
 msgstr "Télécharger %1$s"
 
@@ -426,6 +392,11 @@ msgstr "Bold"
 #: 
 msgid "Designer"
 msgstr "Designer"
+
+#. font
+#: 
+msgid "Full Language Support"
+msgstr "Support linguistique complet"
 
 #. font
 #: 
@@ -491,13 +462,6 @@ msgstr "Subfamily"
 #: 
 msgid "Style"
 msgstr "Style"
-
-#. font style
-#: 
-msgid "%1$d style"
-msgid_plural "%1$d styles"
-msgstr[0] "%1$d style"
-msgstr[1] "%1$d styles"
 
 #. font style
 #: 
@@ -583,7 +547,7 @@ msgstr "Polices mises en avant"
 #: 
 #, fuzzy
 msgid "The Font Library promotes your freedoms as it relates to the use of type. All the fonts that appear on this site come with the freedom to use, study, share and remix them. Browse our catalogue and see what's new."
-msgstr "Open Font Library promeut votre liberté puisqu'il est en relation directe avec l'utilisation de caractères d'écriture. Toutes les polices qui apparaissent sur ce site s'accompagnent de la liberté de les utiliser, les étudier, les partager et les modifier. Parcourez notre catalogue et découvrez les nouveautés."
+msgstr "Font Library promeut votre liberté puisqu'il est en relation directe avec l'utilisation de caractères d'écriture. Toutes les polices qui apparaissent sur ce site s'accompagnent de la liberté de les utiliser, les étudier, les partager et les modifier. Parcourez notre catalogue et découvrez les nouveautés."
 
 #. homepage
 #: 
@@ -660,7 +624,7 @@ msgstr "Parcourez le catalogue complet"
 #: 
 #, fuzzy
 msgid "The mission of the Font Library is to promote your freedoms as it relates to the use of type. All of the fonts that appear on this site come with the freedom to use, study, share and remix them."
-msgstr "La mission de Open Font Library consiste à promouvoir vos libertés étant donné qu'il se rapporte à l'utilisation de polices. Toutes les polices disponibles sur ce site peuvent être utilisées,étudiées,partagées et modifiées librement."
+msgstr "La mission de Font Library consiste à promouvoir vos libertés étant donné qu'il se rapporte à l'utilisation de polices. Toutes les polices disponibles sur ce site peuvent être utilisées,étudiées,partagées et modifiées librement."
 
 #. homepage
 #: 
@@ -671,7 +635,7 @@ msgstr "Recherchons traducteurs"
 #: 
 #, fuzzy
 msgid "Learn how you can help internationalize Font Library"
-msgstr "Apprenez comment vous pouvez aider à l'internationalisation OFLB."
+msgstr "Apprenez comment vous pouvez aider à l'internationalisation de Font Library."
 
 #. homepage
 #: 
@@ -687,12 +651,12 @@ msgstr "traduire le site"
 #: 
 #, fuzzy
 msgid "Font Library is all fonts. Free Downloads and Quality Support."
-msgstr "Open Font Library est TOUTES les polices. Téléchargement libre et support de qualité."
+msgstr "Font Library est TOUTES les polices. Téléchargement libre et support de qualité."
 
 #. homepage
 #: 
 msgid "The Font Library is all fonts."
-msgstr ""
+msgstr "Font Library est TOUTES les polices."
 
 #. homepage
 #: 
@@ -718,21 +682,6 @@ msgstr ""
 #: 
 msgid "Language Support"
 msgstr "Support linguistique"
-
-#. language
-#: 
-msgid "Full Language Support"
-msgstr "Support linguistique complet"
-
-#. language
-#: 
-msgid "Partial Language Support"
-msgstr "Support linguistique partiel"
-
-#. language
-#: 
-msgid "No Language Support"
-msgstr "Pas de support linguistique"
 
 #. language
 #: 
@@ -908,7 +857,7 @@ msgstr "Les polices d'écriture suivantes sont en train d'être examinées."
 #: 
 #, fuzzy
 msgid "user member page on the Font Library"
-msgstr "Page de l'utilisateur sur Open Front Library"
+msgstr "Page de l'utilisateur sur Front Library"
 
 #. member
 #: 
@@ -1074,7 +1023,7 @@ msgstr "Rejoindre"
 #: 
 #, fuzzy
 msgid "The mission of the Font Library is to promote your freedoms as it relates to the use of type."
-msgstr "La mission de Open Font Library consiste à promouvoir vos libertés étant donné qu'il se rapporte à l'utilisation de polices."
+msgstr "La mission de Font Library consiste à promouvoir vos libertés étant donné qu'il se rapporte à l'utilisation de polices."
 
 #. sign up
 #: 
@@ -1296,4 +1245,59 @@ msgstr "Rejoignez-nous sur <a href=\"%1$s\">Facebook</a>"
 #: 
 msgid "Pin on <a href=\"%1$s\">Pinterest</a>"
 msgstr "Retrouvez-nous sur <a href=\"%1$s\">Pinterest</a>"
+
+#. font
+#: 
+msgid "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>added today</span>"
+msgstr "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>ajouté aujourd'hui</span>"
+
+#. font
+#: 
+msgid "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>updated today</span>"
+msgstr "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>actualisé aujourd'hui</span>"
+
+#. font
+#: 
+msgid "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>added yesterday</span>"
+msgstr "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>ajouté hier</span>"
+
+#. font
+#: 
+msgid "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>updated yesterday</span>"
+msgstr "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>actualisé hier</span>"
+
+#. font
+#: 
+msgid "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>added %3$d day ago</span>"
+msgid_plural "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>added %3$d days ago</span>"
+msgstr[0] "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>ajouté il y a %3$d jour</span>"
+msgstr[1] "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>ajouté il y a %3$d jours</span>"
+
+#. font
+#: 
+msgid "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>updated %3$d day ago</span>"
+msgid_plural "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>updated %3$d day ago</span>"
+msgstr[0] "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>actualisé il y a %3$d jour</span>"
+msgstr[1] "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>actualisé il y a %3$d jours</span>"
+
+#. font style
+#: 
+msgid "%1$d style"
+msgid_plural "%1$d styles"
+msgstr[0] "%1$d style"
+msgstr[1] "%1$d styles"
+
+#. language
+#: 
+msgid "Partial Language Support"
+msgstr "Support linguistique partiel"
+
+#. language
+#: 
+msgid "No Language Support"
+msgstr "Pas de support linguistique"
+
+#: 
+msgid "Contact us"
+msgstr ""
 
