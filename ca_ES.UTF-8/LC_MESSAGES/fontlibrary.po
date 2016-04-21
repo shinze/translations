@@ -638,8 +638,8 @@ msgstr "Convertiu-vos en traductor"
 
 #. homepage
 #: 
-msgid "translate the site"
-msgstr "traduïu el lloc web"
+msgid "Translate the site"
+msgstr "Traduïu el lloc web"
 
 #. homepage
 #: 
