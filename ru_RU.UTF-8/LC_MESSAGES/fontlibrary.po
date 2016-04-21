@@ -646,7 +646,7 @@ msgstr "Стать переводчиком"
 
 #. homepage
 #: 
-msgid "translate the site"
+msgid "Translate the site"
 msgstr "Начать работу над переводом сайта"
 
 #. homepage
