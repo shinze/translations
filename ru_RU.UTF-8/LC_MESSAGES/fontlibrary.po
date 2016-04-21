@@ -546,7 +546,7 @@ msgstr "Популярные шрифты"
 #: 
 #, fuzzy
 msgid "The Font Library promotes your freedoms as it relates to the use of type. All the fonts that appear on this site come with the freedom to use, study, share and remix them. Browse our catalogue and see what's new."
-msgstr "Открытая библиотека шрифтов — Open Font Library — продвигает свободу использования типографики. Все шрифты, представленные на этом сайте, свободны к использованию, изучению, распространению и изменению. Откройте наш каталог и просмотрите новинки."
+msgstr "Открытая библиотека шрифтов — Font Library — продвигает свободу использования типографики. Все шрифты, представленные на этом сайте, свободны к использованию, изучению, распространению и изменению. Откройте наш каталог и просмотрите новинки."
 
 #. homepage
 #: 
@@ -1025,7 +1025,7 @@ msgstr "Вступить в"
 #: 
 #, fuzzy
 msgid "The mission of the Font Library is to promote your freedoms as it relates to the use of type."
-msgstr "Миссия Open Font Library состоит в продвижении вашей свободы в отношении типографики."
+msgstr "Миссия Font Library состоит в продвижении вашей свободы в отношении типографики."
 
 #. sign up
 #: 
