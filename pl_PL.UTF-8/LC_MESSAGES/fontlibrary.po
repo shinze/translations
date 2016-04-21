@@ -543,7 +543,6 @@ msgstr "Polecane Czcionki"
 
 #. homepage
 #: 
-#, fuzzy
 msgid "The Font Library promotes your freedoms as it relates to the use of type. All the fonts that appear on this site come with the freedom to use, study, share and remix them. Browse our catalogue and see what's new."
 msgstr "Otwarta Biblioteka Czcionek promuje twoje wolności w odniesieniu do typografii. Wszystkie czcionki pojawiające się na tej stronie mogą być swobodnie używane, analizowane, współdzielone i poddawane przeróbkom. Przejrzyj nasz katalog i zobacz co jest w nim nowego."
 
@@ -623,7 +622,6 @@ msgstr "Przeglądaj Kompletny Katalog"
 
 #. homepage
 #: 
-#, fuzzy
 msgid "The mission of the Font Library is to promote your freedoms as it relates to the use of type. All of the fonts that appear on this site come with the freedom to use, study, share and remix them."
 msgstr "Celem Wolnej Biblioteki Czcionek jest promocja wolności związana z użyciem typografii. Wszystkie czcionki, które są na stronie dają prawo do analizy, dzielenia się i modyfikacji."
 
@@ -634,7 +632,6 @@ msgstr "Poszukujemy Tłumaczy"
 
 #. homepage
 #: 
-#, fuzzy
 msgid "Learn how you can help internationalize Font Library"
 msgstr "Zobacz jak możesz pomóc umiędzynarodowić Font Library"
 
@@ -855,7 +852,6 @@ msgstr "Czcionki wymienione dalej są aktualnie poddawane inspekcji."
 
 #. member
 #: 
-#, fuzzy
 msgid "user member page on the Font Library"
 msgstr "user member page on the Open Font Library"
 
@@ -1021,7 +1017,6 @@ msgstr "Dołącz"
 
 #. sign up
 #: 
-#, fuzzy
 msgid "The mission of the Font Library is to promote your freedoms as it relates to the use of type."
 msgstr "Celem Wolnej Biblioteki Czcionek jest promocja wolności związana z użyciem typografii."
 
@@ -1167,7 +1162,6 @@ msgstr ""
 
 #. member
 #: 
-#, fuzzy
 msgid "Welcome to the Open Font Library!"
 msgstr "Witaj w Otwartej Bibliotece Czcionek!"
 
