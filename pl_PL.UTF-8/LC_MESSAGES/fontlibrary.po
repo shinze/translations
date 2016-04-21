@@ -642,7 +642,7 @@ msgstr "Zostań tłumaczem"
 
 #. homepage
 #: 
-msgid "translate the site"
+msgid "Translate the site"
 msgstr "Przetłumacz stronę"
 
 #. homepage
