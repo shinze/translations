@@ -167,9 +167,8 @@ msgstr "Fabricatorz, Christopher Adams, Dave Crossland, Jon Phillips und viele M
 
 #. credits
 #: 
-#, fuzzy
 msgid "Credits for the Font Library"
-msgstr "Credits for the Open Font Library"
+msgstr ""
 
 #. dashboard
 #: 
@@ -547,7 +546,7 @@ msgstr "Unsere Favoriten"
 #: 
 #, fuzzy
 msgid "The Font Library promotes your freedoms as it relates to the use of type. All the fonts that appear on this site come with the freedom to use, study, share and remix them. Browse our catalogue and see what's new."
-msgstr "Die Open Font Library setzt sich für deine Freiheiten in Bezug auf Typographie ein. Alle Schriften die du hier findest lassen dir die Freiheit sie zu benutzen, untersuchen, teilen und zu remixen. Wirf einen Blick in unseren Katalog und schau dir die neuen Schriften an."
+msgstr "Die Font Library setzt sich für deine Freiheiten in Bezug auf Typographie ein. Alle Schriften die du hier findest lassen dir die Freiheit sie zu benutzen, untersuchen, teilen und zu remixen. Wirf einen Blick in unseren Katalog und schau dir die neuen Schriften an."
 
 #. homepage
 #: 
@@ -624,7 +623,7 @@ msgstr "Den kompletten Katalog betrachten"
 #: 
 #, fuzzy
 msgid "The mission of the Font Library is to promote your freedoms as it relates to the use of type. All of the fonts that appear on this site come with the freedom to use, study, share and remix them."
-msgstr "Die Mission der Open Font Library ist deine Freiheit zu fördern, da es vom Typ der Nutzung abhängt. Alle Schriften die auf dieser Seite erscheinen kommen mit der Freiheit der Nutzung, des Studierens, Teilens und Remixens der Schriften."
+msgstr "Die Mission der Font Library ist deine Freiheit zu fördern, da es vom Typ der Nutzung abhängt. Alle Schriften die auf dieser Seite erscheinen kommen mit der Freiheit der Nutzung, des Studierens, Teilens und Remixens der Schriften."
 
 #. homepage
 #: 
@@ -635,7 +634,7 @@ msgstr "Wir suchen Übersetzer"
 #: 
 #, fuzzy
 msgid "Learn how you can help internationalize Font Library"
-msgstr "Lerne wie du helfen kannst die OFLB zu übersetzen"
+msgstr "Lerne wie du helfen kannst die Font Library zu übersetzen"
 
 #. homepage
 #: 
@@ -1021,7 +1020,7 @@ msgstr "Beitreten"
 #: 
 #, fuzzy
 msgid "The mission of the Font Library is to promote your freedoms as it relates to the use of type."
-msgstr "Die Mission der Open Font Library ist deine Freiheit zu fördern, da es vom Typ der Nutzung abhängt."
+msgstr "Die Mission der Font Library ist deine Freiheit zu fördern, da es vom Typ der Nutzung abhängt."
 
 #. sign up
 #: 
