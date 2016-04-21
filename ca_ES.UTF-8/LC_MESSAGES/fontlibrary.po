@@ -629,7 +629,7 @@ msgstr "Es necessiten traductors"
 #. homepage
 #: 
 msgid "Learn how you can help internationalize Font Library"
-msgstr "Com podeu ajudar a internacionalitzar l'OFLB"
+msgstr "Com podeu ajudar a internacionalitzar la Font Library"
 
 #. homepage
 #: 
