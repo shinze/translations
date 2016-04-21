@@ -636,7 +636,7 @@ msgstr "Poszukujemy Tłumaczy"
 #: 
 #, fuzzy
 msgid "Learn how you can help internationalize Font Library"
-msgstr "Zobacz jak możesz pomóc umiędzynarodowić OFLB"
+msgstr "Zobacz jak możesz pomóc umiędzynarodowić Font Library"
 
 #. homepage
 #: 
