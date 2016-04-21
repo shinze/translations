@@ -40,7 +40,6 @@ msgstr "Primero <a href=\"%1$s\">crea una familia de fuentes</a>, entonces sube 
 
 #. catalogue
 #: 
-#, fuzzy
 msgid "Font Catalogue for the Font Library"
 msgstr "Catálogo de fuentes para Font Lybrary"
 
@@ -393,7 +392,6 @@ msgstr "Diseñador"
 
 #. font
 #: 
-#, fuzzy
 msgid "Full Language Support"
 msgstr "Compatibilidad de idiomas completa"
 
@@ -630,7 +628,6 @@ msgstr "Buscando traductores"
 
 #. homepage
 #: 
-#, fuzzy
 msgid "Learn how you can help internationalize Font Library"
 msgstr "Conoce cómo puedes ayudar a internacionalizar la Font Library"
 
@@ -851,7 +848,6 @@ msgstr "Las siguientes fuentes están actualmente bajo revisión."
 
 #. member
 #: 
-#, fuzzy
 msgid "user member page on the Font Library"
 msgstr "Página de usuario miembro en Font Library"
 
@@ -1017,7 +1013,6 @@ msgstr "Únete"
 
 #. sign up
 #: 
-#, fuzzy
 msgid "The mission of the Font Library is to promote your freedoms as it relates to the use of type."
 msgstr "La misión de Font Library es promover tu libertad respecto al uso de tipografías."
 
