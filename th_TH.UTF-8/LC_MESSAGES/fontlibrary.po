@@ -634,7 +634,7 @@ msgstr "มาเป็นนักแปล"
 
 #. homepage
 #: 
-msgid "translate the site"
+msgid "Translate the site"
 msgstr "แปลเว็บไซต์"
 
 #. homepage
