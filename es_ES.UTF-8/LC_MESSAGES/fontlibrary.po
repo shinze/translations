@@ -638,7 +638,8 @@ msgstr "Conviértete en traductor"
 
 #. homepage
 #: 
-msgid "translate the site"
+#, fuzzy
+msgid "Translate the site"
 msgstr "traduce el sitio"
 
 #. homepage
