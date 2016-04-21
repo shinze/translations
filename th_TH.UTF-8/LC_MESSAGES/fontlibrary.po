@@ -624,7 +624,6 @@ msgstr "ต้องการนักแปล"
 
 #. homepage
 #: 
-#, fuzzy
 msgid "Learn how you can help internationalize Font Library"
 msgstr "คุณจะช่วยทำ Font Library ให้เป็นสากลได้อย่างไร"
 
@@ -1155,7 +1154,6 @@ msgstr ""
 
 #. member
 #: 
-#, fuzzy
 msgid "Welcome to the Open Font Library!"
 msgstr "ยินดีต้อนรับสู่ Open Font Library!"
 
