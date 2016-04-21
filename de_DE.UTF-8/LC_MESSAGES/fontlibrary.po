@@ -45,7 +45,6 @@ msgstr ""
 
 #. catalogue
 #: 
-#, fuzzy
 msgid "Public Domain (not a license)"
 msgstr "Gemeinfreiheit ()"
 
@@ -96,7 +95,6 @@ msgstr "ZIP-Datei"
 
 #. create
 #: 
-#, fuzzy
 msgid "Tell us the name of your font. If it includes more than one variant or style, supply the name for the entire font family. Please give it a name using Latin letters, as this will be used to set the URL for your font. You can change your font's display name later from its settings page."
 msgstr "Gib den Namen deiner Schrift an. Wenn es mehr als eine Variante oder einen Style hat, gib den Namen für die gesamte Schrift-Familie an. Bitte gib ihm einen Namen in lateinischen Buchstaben an, da er für die URL deiner Schrift benutzt wird. Du kannst später den angezeigten Schriftnamen in den Einstellungen  ändern."
 
@@ -544,7 +542,6 @@ msgstr "Unsere Favoriten"
 
 #. homepage
 #: 
-#, fuzzy
 msgid "The Font Library promotes your freedoms as it relates to the use of type. All the fonts that appear on this site come with the freedom to use, study, share and remix them. Browse our catalogue and see what's new."
 msgstr "Die Font Library setzt sich für deine Freiheiten in Bezug auf Typographie ein. Alle Schriften die du hier findest lassen dir die Freiheit sie zu benutzen, untersuchen, teilen und zu remixen. Wirf einen Blick in unseren Katalog und schau dir die neuen Schriften an."
 
@@ -621,7 +618,6 @@ msgstr "Den kompletten Katalog betrachten"
 
 #. homepage
 #: 
-#, fuzzy
 msgid "The mission of the Font Library is to promote your freedoms as it relates to the use of type. All of the fonts that appear on this site come with the freedom to use, study, share and remix them."
 msgstr "Die Mission der Font Library ist deine Freiheit zu fördern, da es vom Typ der Nutzung abhängt. Alle Schriften die auf dieser Seite erscheinen kommen mit der Freiheit der Nutzung, des Studierens, Teilens und Remixens der Schriften."
 
@@ -632,7 +628,6 @@ msgstr "Wir suchen Übersetzer"
 
 #. homepage
 #: 
-#, fuzzy
 msgid "Learn how you can help internationalize Font Library"
 msgstr "Lerne wie du helfen kannst die Font Library zu übersetzen"
 
@@ -1018,7 +1013,6 @@ msgstr "Beitreten"
 
 #. sign up
 #: 
-#, fuzzy
 msgid "The mission of the Font Library is to promote your freedoms as it relates to the use of type."
 msgstr "Die Mission der Font Library ist deine Freiheit zu fördern, da es vom Typ der Nutzung abhängt."
 
