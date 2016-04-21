@@ -545,7 +545,7 @@ msgstr "Fontes em Destaque"
 #: 
 #, fuzzy
 msgid "The Font Library promotes your freedoms as it relates to the use of type. All the fonts that appear on this site come with the freedom to use, study, share and remix them. Browse our catalogue and see what's new."
-msgstr "A missão da Open Font Library é promover a suas liberdades no que está relacionado com o uso de tipografia. Todas as fontes que estão no site trazem consigo a liberdade para que sejam usadas, estudadas, partilhadas e remisturadas. Navegue pelo Catálogo e veja as novidades."
+msgstr "A missão da Font Library é promover a suas liberdades no que está relacionado com o uso de tipografia. Todas as fontes que estão no site trazem consigo a liberdade para que sejam usadas, estudadas, partilhadas e remisturadas. Navegue pelo Catálogo e veja as novidades."
 
 #. homepage
 #: 
@@ -622,7 +622,7 @@ msgstr "Veja o Catálogo completo"
 #: 
 #, fuzzy
 msgid "The mission of the Font Library is to promote your freedoms as it relates to the use of type. All of the fonts that appear on this site come with the freedom to use, study, share and remix them."
-msgstr "A missão da Open Font Library é promover a suas liberdades no  no que diz respeito ao uso de tipografia. Todas as fontes que estão no site trazem consigo a liberdade para que sejam usadas, estudadas, partilhadas e remisturadas."
+msgstr "A missão da Font Library é promover a suas liberdades no  no que diz respeito ao uso de tipografia. Todas as fontes que estão no site trazem consigo a liberdade para que sejam usadas, estudadas, partilhadas e remisturadas."
 
 #. homepage
 #: 
@@ -633,7 +633,7 @@ msgstr "Procuram-se Tradutores"
 #: 
 #, fuzzy
 msgid "Learn how you can help internationalize Font Library"
-msgstr "Descubra como ajudar a traduzir a OFLB"
+msgstr "Descubra como ajudar a traduzir a Font Library"
 
 #. homepage
 #: 
@@ -813,7 +813,7 @@ msgstr "editar informação de membro"
 #. member
 #: 
 msgid "We welcome you to contribute more of your fonts to the Library! Go ahead and <a href=\"%1$s\">create a new font family</a>."
-msgstr "Convidámo-lo a contribuir com mais fontes suas para a Open Font Library! Continue e <a href=\"%1$s\">criar uma nova família de fontes</a>."
+msgstr "Convidámo-lo a contribuir com mais fontes suas para a Font Library! Continue e <a href=\"%1$s\">criar uma nova família de fontes</a>."
 
 #. member
 #: 
@@ -1019,7 +1019,7 @@ msgstr "Inscreva-se"
 #: 
 #, fuzzy
 msgid "The mission of the Font Library is to promote your freedoms as it relates to the use of type."
-msgstr "A missão da Open Font Library é promover a suas liberdades no que diz respeito ao uso de tipografia."
+msgstr "A missão da Font Library é promover a suas liberdades no que diz respeito ao uso de tipografia."
 
 #. sign up
 #: 
