@@ -95,7 +95,6 @@ msgstr "Arquivo Zip"
 
 #. create
 #: 
-#, fuzzy
 msgid "Tell us the name of your font. If it includes more than one variant or style, supply the name for the entire font family. Please give it a name using Latin letters, as this will be used to set the URL for your font. You can change your font's display name later from its settings page."
 msgstr "Escreva o nome da sua fonte. Se incluir mais do que um estilo ou variante indique o nome da familia. O nome da fonte irá definir a URL da página por isso pedimos que use apenas letras do alfabeto latino. Mais tarde puderá alterar o nome da fonte na página de definições."
 
@@ -543,7 +542,6 @@ msgstr "Fontes em Destaque"
 
 #. homepage
 #: 
-#, fuzzy
 msgid "The Font Library promotes your freedoms as it relates to the use of type. All the fonts that appear on this site come with the freedom to use, study, share and remix them. Browse our catalogue and see what's new."
 msgstr "A missão da Font Library é promover a suas liberdades no que está relacionado com o uso de tipografia. Todas as fontes que estão no site trazem consigo a liberdade para que sejam usadas, estudadas, partilhadas e remisturadas. Navegue pelo Catálogo e veja as novidades."
 
@@ -620,7 +618,6 @@ msgstr "Veja o Catálogo completo"
 
 #. homepage
 #: 
-#, fuzzy
 msgid "The mission of the Font Library is to promote your freedoms as it relates to the use of type. All of the fonts that appear on this site come with the freedom to use, study, share and remix them."
 msgstr "A missão da Font Library é promover a suas liberdades no  no que diz respeito ao uso de tipografia. Todas as fontes que estão no site trazem consigo a liberdade para que sejam usadas, estudadas, partilhadas e remisturadas."
 
@@ -631,7 +628,6 @@ msgstr "Procuram-se Tradutores"
 
 #. homepage
 #: 
-#, fuzzy
 msgid "Learn how you can help internationalize Font Library"
 msgstr "Descubra como ajudar a traduzir a Font Library"
 
@@ -1017,7 +1013,6 @@ msgstr "Inscreva-se"
 
 #. sign up
 #: 
-#, fuzzy
 msgid "The mission of the Font Library is to promote your freedoms as it relates to the use of type."
 msgstr "A missão da Font Library é promover a suas liberdades no que diz respeito ao uso de tipografia."
 
@@ -1163,7 +1158,6 @@ msgstr ""
 
 #. member
 #: 
-#, fuzzy
 msgid "Welcome to the Open Font Library!"
 msgstr "Bem-vindo à Open Font Library!"
 
