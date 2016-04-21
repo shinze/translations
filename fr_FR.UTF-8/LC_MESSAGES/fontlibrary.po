@@ -40,7 +40,6 @@ msgstr "D'abord <a href=\"%1$s\">créez une famille</a> de police puis téléver
 
 #. catalogue
 #: 
-#, fuzzy
 msgid "Font Catalogue for the Font Library"
 msgstr "Catalogue de polices pour Font Library"
 
@@ -96,7 +95,6 @@ msgstr "Fichier Zip"
 
 #. create
 #: 
-#, fuzzy
 msgid "Tell us the name of your font. If it includes more than one variant or style, supply the name for the entire font family. Please give it a name using Latin letters, as this will be used to set the URL for your font. You can change your font's display name later from its settings page."
 msgstr "Donnez-nous le nom de votre police. Si elle inclut plusieurs variantes ou styles, donnez le nom de la famille de police entière. Merci de fournir un nom utilisant des caractères Latin, comme elle sera utilisée pour générer l'URL pour votre police. Vous pouvez modifier ultérieurement le nom d'affichage de votre police à partir de sa page de configuration."
 
@@ -167,7 +165,6 @@ msgstr "Fabricatorz, Christopher Adams, Dave Crossland, Jon Phillips et bien d'a
 
 #. credits
 #: 
-#, fuzzy
 msgid "Credits for the Font Library"
 msgstr "Crédits pour Font Library"
 
@@ -545,7 +542,6 @@ msgstr "Polices mises en avant"
 
 #. homepage
 #: 
-#, fuzzy
 msgid "The Font Library promotes your freedoms as it relates to the use of type. All the fonts that appear on this site come with the freedom to use, study, share and remix them. Browse our catalogue and see what's new."
 msgstr "Font Library promeut votre liberté puisqu'il est en relation directe avec l'utilisation de caractères d'écriture. Toutes les polices qui apparaissent sur ce site s'accompagnent de la liberté de les utiliser, les étudier, les partager et les modifier. Parcourez notre catalogue et découvrez les nouveautés."
 
@@ -622,7 +618,6 @@ msgstr "Parcourez le catalogue complet"
 
 #. homepage
 #: 
-#, fuzzy
 msgid "The mission of the Font Library is to promote your freedoms as it relates to the use of type. All of the fonts that appear on this site come with the freedom to use, study, share and remix them."
 msgstr "La mission de Font Library consiste à promouvoir vos libertés étant donné qu'il se rapporte à l'utilisation de polices. Toutes les polices disponibles sur ce site peuvent être utilisées,étudiées,partagées et modifiées librement."
 
@@ -633,7 +628,6 @@ msgstr "Recherchons traducteurs"
 
 #. homepage
 #: 
-#, fuzzy
 msgid "Learn how you can help internationalize Font Library"
 msgstr "Apprenez comment vous pouvez aider à l'internationalisation de Font Library."
 
@@ -649,7 +643,6 @@ msgstr "traduire le site"
 
 #. homepage
 #: 
-#, fuzzy
 msgid "Font Library is all fonts. Free Downloads and Quality Support."
 msgstr "Font Library est TOUTES les polices. Téléchargement libre et support de qualité."
 
@@ -855,7 +848,6 @@ msgstr "Les polices d'écriture suivantes sont en train d'être examinées."
 
 #. member
 #: 
-#, fuzzy
 msgid "user member page on the Font Library"
 msgstr "Page de l'utilisateur sur Front Library"
 
@@ -1021,7 +1013,6 @@ msgstr "Rejoindre"
 
 #. sign up
 #: 
-#, fuzzy
 msgid "The mission of the Font Library is to promote your freedoms as it relates to the use of type."
 msgstr "La mission de Font Library consiste à promouvoir vos libertés étant donné qu'il se rapporte à l'utilisation de polices."
 
@@ -1167,7 +1158,6 @@ msgstr ""
 
 #. member
 #: 
-#, fuzzy
 msgid "Welcome to the Open Font Library!"
 msgstr "Bienvenue sur Open Font Library !"
 
