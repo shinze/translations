@@ -541,7 +541,7 @@ msgstr "ฟอนต์แนะนำ"
 
 #. homepage
 #: 
-msgid "The Font Library promotes your freedoms as it relates to the use of type. All the fonts that appear on this site come with the freedom to use, study, share and remix them. Browse our catalogue and see what's new."
+msgid "Browse our catalogue and see what's new."
 msgstr ""
 
 #. homepage
@@ -614,7 +614,7 @@ msgstr "ดูแค๊ตตาล๊อกทั้งหมด"
 
 #. homepage
 #: 
-msgid "The mission of the Font Library is to promote your freedoms as it relates to the use of type. All of the fonts that appear on this site come with the freedom to use, study, share and remix them."
+msgid "All of the fonts that appear on this site come with the freedom to use, study, share and remix them."
 msgstr ""
 
 #. homepage
@@ -1014,11 +1014,6 @@ msgstr ""
 
 #. sign up
 #: 
-msgid "By signing up you can share and remix fonts, and get help form our global community of designers."
-msgstr "เมื่อสมัครแล้วคุณจะสามารถแชร์ฟอนต์และเรียบเรียงฟอนต์ได้  และสามารถขอความช่วยเหลือจากนักออกแบบฟอนต์ทั่วโลก"
-
-#. sign up
-#: 
 msgid "Head on over to the <a href=\"%1$s\">sign in</a> page."
 msgstr "มุ่งหน้าไปที่ <a href=\"%1$s\">sign in</a> หน้า."
 
@@ -1075,7 +1070,7 @@ msgstr "ใส่รหัสผ่านใหม่ของคุณทาง
 #. sign up
 #: 
 msgid "By signing up you can share and remix fonts, and get help from our global community of designers."
-msgstr ""
+msgstr "เมื่อสมัครแล้วคุณจะสามารถแชร์ฟอนต์และเรียบเรียงฟอนต์ได้  และสามารถขอความช่วยเหลือจากนักออกแบบฟอนต์ทั่วโลก"
 
 #. tags
 #: 
@@ -1149,8 +1144,8 @@ msgstr ""
 
 #. homepage
 #: 
-msgid "if you already have an account."
-msgstr ""
+msgid "If you already have an account"
+msgstr "ถ้าคุณมีบัญชีอยู่แล้ว"
 
 #. member
 #: 
@@ -1282,5 +1277,9 @@ msgstr ""
 
 #: 
 msgid "Contact us"
+msgstr ""
+
+#: 
+msgid "For questions, please email <a href=\"mailto:%1$s\">%1$s</a>"
 msgstr ""
 
