@@ -543,8 +543,8 @@ msgstr "Polecane Czcionki"
 
 #. homepage
 #: 
-msgid "The Font Library promotes your freedoms as it relates to the use of type. All the fonts that appear on this site come with the freedom to use, study, share and remix them. Browse our catalogue and see what's new."
-msgstr "Otwarta Biblioteka Czcionek promuje twoje wolności w odniesieniu do typografii. Wszystkie czcionki pojawiające się na tej stronie mogą być swobodnie używane, analizowane, współdzielone i poddawane przeróbkom. Przejrzyj nasz katalog i zobacz co jest w nim nowego."
+msgid "Browse our catalogue and see what's new."
+msgstr "Przejrzyj nasz katalog i zobacz co jest w nim nowego."
 
 #. homepage
 #: 
@@ -622,8 +622,8 @@ msgstr "Przeglądaj Kompletny Katalog"
 
 #. homepage
 #: 
-msgid "The mission of the Font Library is to promote your freedoms as it relates to the use of type. All of the fonts that appear on this site come with the freedom to use, study, share and remix them."
-msgstr "Celem Wolnej Biblioteki Czcionek jest promocja wolności związana z użyciem typografii. Wszystkie czcionki, które są na stronie dają prawo do analizy, dzielenia się i modyfikacji."
+msgid "All of the fonts that appear on this site come with the freedom to use, study, share and remix them."
+msgstr "Wszystkie czcionki, które są na stronie dają prawo do analizy, dzielenia się i modyfikacji."
 
 #. homepage
 #: 
@@ -1022,11 +1022,6 @@ msgstr "Celem Wolnej Biblioteki Czcionek jest promocja wolności związana z uż
 
 #. sign up
 #: 
-msgid "By signing up you can share and remix fonts, and get help form our global community of designers."
-msgstr "Rejestrując się możesz dzielić się i modyfikować czcionki oraz pomóc utworzyć naszą globalną społeczność projektantów."
-
-#. sign up
-#: 
 msgid "Head on over to the <a href=\"%1$s\">sign in</a> page."
 msgstr "Przekaż do <a href=\"%1$s\">zaloguj się</a> strona."
 
@@ -1083,7 +1078,7 @@ msgstr "Wpisz twoje nowe hasło po lewej i potwierdź wpisując je ponownie."
 #. sign up
 #: 
 msgid "By signing up you can share and remix fonts, and get help from our global community of designers."
-msgstr ""
+msgstr "Rejestrując się możesz dzielić się i modyfikować czcionki oraz pomóc utworzyć naszą globalną społeczność projektantów."
 
 #. tags
 #: 
@@ -1157,8 +1152,8 @@ msgstr ""
 
 #. homepage
 #: 
-msgid "if you already have an account."
-msgstr ""
+msgid "If you already have an account"
+msgstr "Jeśli już posiadasz konto"
 
 #. member
 #: 
@@ -1296,5 +1291,9 @@ msgstr ""
 
 #: 
 msgid "Contact us"
+msgstr ""
+
+#: 
+msgid "For questions, please email <a href=\"mailto:%1$s\">%1$s</a>"
 msgstr ""
 
