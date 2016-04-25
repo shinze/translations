@@ -544,8 +544,8 @@ msgstr "Популярные шрифты"
 
 #. homepage
 #: 
-msgid "The Font Library promotes your freedoms as it relates to the use of type. All the fonts that appear on this site come with the freedom to use, study, share and remix them. Browse our catalogue and see what's new."
-msgstr "Открытая библиотека шрифтов — Font Library — продвигает свободу использования типографики. Все шрифты, представленные на этом сайте, свободны к использованию, изучению, распространению и изменению. Откройте наш каталог и просмотрите новинки."
+msgid "Browse our catalogue and see what's new."
+msgstr "Откройте наш каталог и просмотрите новинки."
 
 #. homepage
 #: 
@@ -626,8 +626,8 @@ msgstr "Открыть полный каталог"
 
 #. homepage
 #: 
-msgid "The mission of the Font Library is to promote your freedoms as it relates to the use of type. All of the fonts that appear on this site come with the freedom to use, study, share and remix them."
-msgstr ""
+msgid "All of the fonts that appear on this site come with the freedom to use, study, share and remix them."
+msgstr "Все шрифты, представленные на этом сайте, свободны к использованию, изучению, распространению и изменению."
 
 #. homepage
 #: 
@@ -1026,11 +1026,6 @@ msgstr "Миссия Font Library состоит в продвижении ва�
 
 #. sign up
 #: 
-msgid "By signing up you can share and remix fonts, and get help form our global community of designers."
-msgstr "Став участником, вы сможете распространять и коллекционировать шрифты, а также получить помощь нашего мирового сообщества дизайнеров."
-
-#. sign up
-#: 
 msgid "Head on over to the <a href=\"%1$s\">sign in</a> page."
 msgstr "Перейдите к <a href=\"%1$s\">Войти</a> участника."
 
@@ -1087,7 +1082,7 @@ msgstr "Введите ваш новый пароль слева и подтве
 #. sign up
 #: 
 msgid "By signing up you can share and remix fonts, and get help from our global community of designers."
-msgstr ""
+msgstr "Став участником, вы сможете распространять и коллекционировать шрифты, а также получить помощь нашего мирового сообщества дизайнеров."
 
 #. tags
 #: 
@@ -1161,8 +1156,8 @@ msgstr ""
 
 #. homepage
 #: 
-msgid "if you already have an account."
-msgstr ""
+msgid "If you already have an account"
+msgstr "Если у вас уже есть учётная запись"
 
 #. member
 #: 
@@ -1303,5 +1298,9 @@ msgstr ""
 
 #: 
 msgid "Contact us"
+msgstr ""
+
+#: 
+msgid "For questions, please email <a href=\"mailto:%1$s\">%1$s</a>"
 msgstr ""
 
