@@ -542,7 +542,6 @@ msgstr "Fuentes destacadas"
 
 #. homepage
 #: 
-#, fuzzy
 msgid "Browse our catalogue and see what's new."
 msgstr "Ojea nuestro catálogo para ver qué hay de nuevo."
 
