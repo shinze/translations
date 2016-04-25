@@ -542,8 +542,8 @@ msgstr "Fontes em Destaque"
 
 #. homepage
 #: 
-msgid "The Font Library promotes your freedoms as it relates to the use of type. All the fonts that appear on this site come with the freedom to use, study, share and remix them. Browse our catalogue and see what's new."
-msgstr "A missão da Font Library é promover a suas liberdades no que está relacionado com o uso de tipografia. Todas as fontes que estão no site trazem consigo a liberdade para que sejam usadas, estudadas, partilhadas e remisturadas. Navegue pelo Catálogo e veja as novidades."
+msgid "Browse our catalogue and see what's new."
+msgstr "Navegue pelo Catálogo e veja as novidades."
 
 #. homepage
 #: 
@@ -618,8 +618,8 @@ msgstr "Veja o Catálogo completo"
 
 #. homepage
 #: 
-msgid "The mission of the Font Library is to promote your freedoms as it relates to the use of type. All of the fonts that appear on this site come with the freedom to use, study, share and remix them."
-msgstr "A missão da Font Library é promover a suas liberdades no  no que diz respeito ao uso de tipografia. Todas as fontes que estão no site trazem consigo a liberdade para que sejam usadas, estudadas, partilhadas e remisturadas."
+msgid "All of the fonts that appear on this site come with the freedom to use, study, share and remix them."
+msgstr "Todas as fontes que estão no site trazem consigo a liberdade para que sejam usadas, estudadas, partilhadas e remisturadas."
 
 #. homepage
 #: 
@@ -1018,11 +1018,6 @@ msgstr "A missão da Font Library é promover a suas liberdades no que diz respe
 
 #. sign up
 #: 
-msgid "By signing up you can share and remix fonts, and get help form our global community of designers."
-msgstr "Criando uma conta puderá partilhar e remisturar fontes e ter ajuda da nossa comunidade de designers."
-
-#. sign up
-#: 
 msgid "Head on over to the <a href=\"%1$s\">sign in</a> page."
 msgstr "Siga para o página <a href=\"%1$s\">entrar</a>."
 
@@ -1079,7 +1074,7 @@ msgstr "Escreva a sua nova password à esquerda e confirme escrevendo-a novament
 #. sign up
 #: 
 msgid "By signing up you can share and remix fonts, and get help from our global community of designers."
-msgstr "By signing up you can share and remix fonts, and get help from our global community of designers."
+msgstr "Criando uma conta puderá partilhar e remisturar fontes e ter ajuda da nossa comunidade de designers."
 
 #. tags
 #: 
@@ -1153,8 +1148,8 @@ msgstr ""
 
 #. homepage
 #: 
-msgid "if you already have an account."
-msgstr ""
+msgid "If you already have an account"
+msgstr "Se já tem uma conta"
 
 #. member
 #: 
@@ -1289,5 +1284,9 @@ msgstr "Sem Suporte ao Idioma"
 
 #: 
 msgid "Contact us"
+msgstr ""
+
+#: 
+msgid "For questions, please email <a href=\"mailto:%1$s\">%1$s</a>"
 msgstr ""
 
