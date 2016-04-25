@@ -542,7 +542,7 @@ msgstr "Tipus de lletra destacats"
 
 #. homepage
 #: 
-msgid "The Font Library promotes your freedoms as it relates to the use of type. All the fonts that appear on this site come with the freedom to use, study, share and remix them. Browse our catalogue and see what's new."
+msgid "Browse our catalogue and see what's new."
 msgstr ""
 
 #. homepage
@@ -618,7 +618,7 @@ msgstr "Navegueu pel catàleg complet"
 
 #. homepage
 #: 
-msgid "The mission of the Font Library is to promote your freedoms as it relates to the use of type. All of the fonts that appear on this site come with the freedom to use, study, share and remix them."
+msgid "All of the fonts that appear on this site come with the freedom to use, study, share and remix them."
 msgstr ""
 
 #. homepage
@@ -1018,11 +1018,6 @@ msgstr ""
 
 #. sign up
 #: 
-msgid "By signing up you can share and remix fonts, and get help form our global community of designers."
-msgstr ""
-
-#. sign up
-#: 
 msgid "Head on over to the <a href=\"%1$s\">sign in</a> page."
 msgstr ""
 
@@ -1153,7 +1148,7 @@ msgstr ""
 
 #. homepage
 #: 
-msgid "if you already have an account."
+msgid "If you already have an account"
 msgstr ""
 
 #. member
@@ -1289,5 +1284,9 @@ msgstr ""
 
 #: 
 msgid "Contact us"
+msgstr ""
+
+#: 
+msgid "For questions, please email <a href=\"mailto:%1$s\">%1$s</a>"
 msgstr ""
 
