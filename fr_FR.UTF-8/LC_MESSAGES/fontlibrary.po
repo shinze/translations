@@ -542,8 +542,8 @@ msgstr "Polices mises en avant"
 
 #. homepage
 #: 
-msgid "The Font Library promotes your freedoms as it relates to the use of type. All the fonts that appear on this site come with the freedom to use, study, share and remix them. Browse our catalogue and see what's new."
-msgstr "Font Library promeut votre liberté puisqu'il est en relation directe avec l'utilisation de caractères d'écriture. Toutes les polices qui apparaissent sur ce site s'accompagnent de la liberté de les utiliser, les étudier, les partager et les modifier. Parcourez notre catalogue et découvrez les nouveautés."
+msgid "Browse our catalogue and see what's new."
+msgstr "Parcourez notre catalogue et découvrez les nouveautés."
 
 #. homepage
 #: 
@@ -553,7 +553,7 @@ msgstr "Partagez vos polices"
 #. homepage
 #: 
 msgid "If you would like to contribute fonts to the Font Library, please <a href=\"%1$s\">sign up</a> for a membership or <a href=\"%2$s\">sign in</a> if you already have an account."
-msgstr "Si vous souhaitez proposer vos polices à Font Library, une <a href=\"%1$s\">inscription</a> est nécessaire pour devenir membre ou cliquez sur <a href=\"%2$s\">Connexion</a> si vous avez déjà un compte.."
+msgstr "Si vous souhaitez proposer vos polices à Font Library, une <a href=\"%1$s\">inscription</a> est nécessaire pour devenir membre ou cliquez sur <a href=\"%2$s\">Connexion</a> si vous avez déjà un compte."
 
 #. homepage
 #: 
@@ -618,8 +618,8 @@ msgstr "Parcourez le catalogue complet"
 
 #. homepage
 #: 
-msgid "The mission of the Font Library is to promote your freedoms as it relates to the use of type. All of the fonts that appear on this site come with the freedom to use, study, share and remix them."
-msgstr "La mission de Font Library consiste à promouvoir vos libertés étant donné qu'il se rapporte à l'utilisation de polices. Toutes les polices disponibles sur ce site peuvent être utilisées,étudiées,partagées et modifiées librement."
+msgid "All of the fonts that appear on this site come with the freedom to use, study, share and remix them."
+msgstr "Toutes les polices disponibles sur ce site peuvent être utilisées,étudiées,partagées et modifiées librement."
 
 #. homepage
 #: 
@@ -1018,11 +1018,6 @@ msgstr "La mission de Font Library consiste à promouvoir vos libertés étant d
 
 #. sign up
 #: 
-msgid "By signing up you can share and remix fonts, and get help form our global community of designers."
-msgstr "En nous rejoignant, vous pouvez partager, remixer des polices et recevoir de l'aide de notre communauté de designers."
-
-#. sign up
-#: 
 msgid "Head on over to the <a href=\"%1$s\">sign in</a> page."
 msgstr "Head on over to the <a href=\"%1$s\">sign in</a> page."
 
@@ -1153,8 +1148,8 @@ msgstr ""
 
 #. homepage
 #: 
-msgid "if you already have an account."
-msgstr ""
+msgid "If you already have an account"
+msgstr "Si vous avez déjà un compte"
 
 #. member
 #: 
@@ -1189,12 +1184,12 @@ msgstr ""
 #. Sign in
 #: 
 msgid "Sign in"
-msgstr ""
+msgstr "Connectez"
 
 #. Sign up
 #: 
 msgid "Sign up"
-msgstr ""
+msgstr "Créer un compte"
 
 #: 
 msgid "Serif"
@@ -1289,5 +1284,9 @@ msgstr "Pas de support linguistique"
 
 #: 
 msgid "Contact us"
+msgstr ""
+
+#: 
+msgid "For questions, please email <a href=\"mailto:%1$s\">%1$s</a>"
 msgstr ""
 
