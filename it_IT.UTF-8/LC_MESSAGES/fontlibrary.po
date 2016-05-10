@@ -1,0 +1,1293 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Font Library\n"
+"Language: it\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. catalogue
+#: 
+msgid "Updates"
+msgstr "Aggiornamenti"
+
+#. catalogue
+#: 
+msgid "Create"
+msgstr "Crea"
+
+#. catalogue
+#: 
+msgid "Upload a Font"
+msgstr "Carica un Font"
+
+#. catalogue
+#: 
+msgid "Categories"
+msgstr "Categorie"
+
+#. catalogue
+#: 
+msgid "Contribute to the Font Library by adding your work to our collection!"
+msgstr "Contribuisci a Font Library aggiungendo le tue creazioni alla nostra collezione!"
+
+#. catalogue
+#: 
+msgid "First <a href=\"%1$s\">create a font family</a>, then upload your files using our easy form."
+msgstr "Prima <a href=\"%1$s\">crea una famiglia di font</a>, poi carica i tuoi file usando il nostro semplice modulo."
+
+#. catalogue
+#: 
+msgid "Font Catalogue for the Font Library"
+msgstr "Catalogo dei Font per Font Library"
+
+#. catalogue
+#: 
+msgid "Public Domain (not a license)"
+msgstr "Dominio pubblico (non una licenza)"
+
+#. contact
+#: 
+msgid "Contact"
+msgstr "Contatti"
+
+#. contact
+#: 
+msgid "Contact %1$s"
+msgstr "Contatta %1$s"
+
+#. contact
+#: 
+msgid "To"
+msgstr "A"
+
+#. contact
+#: 
+msgid "Subject"
+msgstr "Soggetto"
+
+#. contact
+#: 
+msgid "Message"
+msgstr "Messaggio"
+
+#. contact
+#: 
+msgid "Use this form to contact <a href=\"%1$s\">%2$s</a>."
+msgstr "Usa questa form per contattare <a href=\"%1$s\">%2$s</a>."
+
+#. contact
+#: 
+msgid "We will send a message on your behalf with the address we have on file."
+msgstr "Invieremo un messaggio per tuo conto con l'indirizzo che abbiamo in archivio."
+
+#. create
+#: 
+msgid "Font Name"
+msgstr "Nome del font"
+
+#. create
+#: 
+msgid "Zip File"
+msgstr "File zip"
+
+#. create
+#: 
+msgid "Tell us the name of your font. If it includes more than one variant or style, supply the name for the entire font family. Please give it a name using Latin letters, as this will be used to set the URL for your font. You can change your font's display name later from its settings page."
+msgstr "Dicci il nome del tuo font. Se include più di una variante o stile, fornisci il nome dell'intera famiglia. Per favore dagli un nome usando caratteri latini, dato che questo verrà usato per l'URL del tuo font. Puoi cambiare il nome visualizzato del tuo font successivamente dalle sue impostazioni."
+
+#. create
+#: 
+msgid "Give us a one-paragraph description of your font."
+msgstr "Descrivi il tuo font in un paragrafo."
+
+#. create
+#: 
+msgid "We require submissions to include at least one font file in OTF or TTF format. Make sure each font file includes your name, URL, copyright and a supported <a href=\"%1$s\">free font license</a>."
+msgstr "Richiediamo che le contribuzioni includano almeno un file di font in formato OTF o TTF. Assicurati che ogni file di font includa il tuo nome, URL, copyright ed una <a href=\"%1$s\">licenza di font gratuita</a> supportata."
+
+#. create
+#: 
+msgid "Place all font files, text files and source files in a single ZIP and upload it using the provided form."
+msgstr "Inserisci tutti i file del font, di testo e sorgente in un unico ZIP e caricalo usando il modulo fornito."
+
+#. create
+#: 
+msgid "Please refer to the <a href=\"%1$s\">Guidebook</a> for detailed instructions."
+msgstr "Per favore consulta la <a href=\"%1$s\">Guida</a> per istruzioni dettagliate."
+
+#. create
+#: 
+msgid "Uploads are limited to 8MB."
+msgstr "Gli upload sono limitati ad 8 MB."
+
+#. create
+#: 
+msgid "Uploads have been temporarily disabled while we work out some problems in our font processing software."
+msgstr "Gli upload sono stati disabilitati temporaneamente mentre sistemiamo alcuni problemi con il nostro software."
+
+#. credits
+#: 
+msgid "We thank those who have generously donated money to help this project."
+msgstr "Ringraziamo coloro che hanno generosamente donato denaro per aiutare questo progetto."
+
+#. credits
+#: 
+msgid "Donate Now"
+msgstr "Dona Ora"
+
+#. credits
+#: 
+msgid "Logo"
+msgstr "Logo"
+
+#. credits
+#: 
+msgid "Our Patrons"
+msgstr "I nostri benefattori"
+
+#. credits
+#: 
+msgid "Thanks"
+msgstr "Grazie"
+
+#. credits
+#: 
+msgid "Software"
+msgstr "Software"
+
+#. credits
+#: 
+msgid "Fabricatorz, Christopher Adams, Dave Crossland, Jon Phillips and many community members."
+msgstr "Fabricatorz, Christopher Adams, Dave Crossland, Jon Phillips e molti membri della comunità."
+
+#. credits
+#: 
+msgid "Credits for the Font Library"
+msgstr "Attribuzioni per Font Library"
+
+#. dashboard
+#: 
+msgid "Users"
+msgstr "Utenti"
+
+#. dashboard
+#: 
+msgid "Stats"
+msgstr "Statistiche"
+
+#. edit
+#: 
+msgid "Instructions"
+msgstr "Istruzioni"
+
+#. edit
+#: 
+msgid "You can use this form to revise information about your font, and upload the latest version."
+msgstr "Puoi usare questo modulo per modificare le informazioni del tuo font, e caricare l'ultima versione."
+
+#. edit
+#: 
+msgid "Font profile"
+msgstr "Profilo del font"
+
+#. edit
+#: 
+msgid "Sample"
+msgstr "Campione"
+
+#. edit
+#: 
+msgid "Update"
+msgstr "Aggiorna"
+
+#. edit
+#: 
+msgid "If you have released a new version of your font, please package it in a fresh zip file and upload it using this form. Make sure the new zip contains a copy of all of the files that you want your users to download."
+msgstr "Se hai rilasciato una nuova versione del tuo font, per favore inseriscilo in un nuovo file zip e caricalo usando questo modulo. Assicurati che il nuovo file zip contenga una copia di tutti i file che vuoi che i tuoi utenti scarichino."
+
+#. error
+#: 
+msgid "report a bug"
+msgstr "segnala un bug"
+
+#. error
+#: 
+msgid "Sorry there is no such page"
+msgstr "Questa pagina non esiste"
+
+#. font
+#: 
+msgid "Preview mode"
+msgstr "Modalità anteprima"
+
+#. font
+#: 
+msgid "Word"
+msgstr "Parola"
+
+#. font
+#: 
+msgid "Sentence"
+msgstr "Frase"
+
+#. font
+#: 
+msgid "Paragraph"
+msgstr "Paragrafo"
+
+#. font
+#: 
+msgid "Styles"
+msgstr "Stili"
+
+#. font
+#: 
+msgid "Fonts"
+msgstr "Caratteri"
+
+#. font
+#: 
+msgid "Type here to change preview text"
+msgstr "Scrivi qui per cambiare il testo di anteprima "
+
+#. font
+#: 
+msgid "History"
+msgstr "Storia"
+
+#. font
+#: 
+msgid "Family Details"
+msgstr "Dettagli della famiglia"
+
+#. font
+#: 
+msgid "edit"
+msgstr "modifica"
+
+#. font
+#: 
+msgid "Family"
+msgstr "Famiglia"
+
+#. font
+#: 
+msgid "Category"
+msgstr "Categoria"
+
+#. font
+#: 
+msgid "Description"
+msgstr "Descrizione"
+
+#. font
+#: 
+msgid "Use this font"
+msgstr "Usa questo font"
+
+#. font
+#: 
+msgid "To use this font in your website add the following code to the head of your html page:"
+msgstr "Per usare questo font nel tuo sito web aggiungi il codice seguente alla head della tua pagina html:"
+
+#. font
+#: 
+msgid "Licenses"
+msgstr "Licenze"
+
+#. font
+#: 
+msgid "Glyph Count"
+msgstr "Numero di glifi"
+
+#. font
+#: 
+msgid "Character Count"
+msgstr "Numero di caratteri"
+
+#. font
+#: 
+msgid "Fixed Width"
+msgstr "Larghezza fissa"
+
+#. font
+#: 
+msgid "Fixed Size"
+msgstr "Dimensione fissa"
+
+#. font
+#: 
+#, fuzzy
+msgid "About"
+msgstr "Informazioni su"
+
+#. font
+#: 
+msgid "%1$s was added by <a href=\"%2$s\">%3$s</a> %4$d day ago"
+msgid_plural "%1$s was added by <a href=\"%2$s\">%3$s</a> %4$d days ago"
+msgstr[0] "%1$s è stato aggiunto da <a href=\"%2$s\">%2$s</a> %4$d giorno fa"
+msgstr[1] "%1$s è stato aggiunto da <a href=\"%2$s\">%2$s</a> %4$d giorni fa"
+
+#. font
+#: 
+msgid "Download %1$s"
+msgstr "Scarica %1$s"
+
+#. font
+#: 
+msgid "Updated"
+msgstr "Aggiornato"
+
+#. font
+#: 
+msgid "Foundry"
+msgstr "Fonderia"
+
+#. font
+#: 
+msgid "Your font is currently under review by our Librarians. It has been flagged as %1$s."
+msgstr "Il tuo font è al momento in fase di revisione da parte dei nostri Bibliotecari. È stato contrassegnato come %1$s."
+
+#. font
+#: 
+msgid "Colour and Background"
+msgstr "Colore e Sfondo"
+
+#. font
+#: 
+msgid "Status"
+msgstr "Status"
+
+#. font
+#: 
+msgid "This font is currently under review. It has been flagged as %1$s."
+msgstr "Questo font è al momento in fase di revisione. È stato contrassegnato come %1$s."
+
+#. font
+#: 
+msgid "Share"
+msgstr "Condividi"
+
+#. font
+#: 
+msgid "Active"
+msgstr "Attivo"
+
+#. font
+#: 
+msgid "Publication Date"
+msgstr "Data di pubblicazione"
+
+#. font
+#: 
+msgid "Bold"
+msgstr "Grassetto"
+
+#. font
+#: 
+msgid "Designer"
+msgstr "Designer"
+
+#. font
+#: 
+msgid "Full Language Support"
+msgstr "Supporto Completo del Linguaggio"
+
+#. font
+#: 
+msgid "Light"
+msgstr "Leggero"
+
+#. font
+#: 
+msgid "Now you can use this font in your css file."
+msgstr "Ora puoi usare questo font nel tuo file css."
+
+#. font
+#: 
+msgid "Here is an example of a paragraph set in %1$s."
+msgstr "Qui c'è un esempio di un paragrafo che usa %1$s."
+
+#. font
+#: 
+msgid "Regular"
+msgstr "Regolare"
+
+#. font sample
+#: 
+msgid "Five quacking zephyrs jolt my wax bed."
+msgstr "Five quacking zephyrs jolt my wax bed."
+
+#. font sample
+#: 
+msgid "But the black kitten had been finished with earlier in the afternoon, and so, while Alice was sitting curled up in a corner of the great arm-chair, half talking to herself and half asleep, the kitten had been having a grand game of romps with the ball of worsted Alice had been trying to wind up, and had been rolling it up and down till it had all come undone again; and there it was, spread over the hearth-rug, all knots and tangles, with the kitten running after its own tail in the middle."
+msgstr "But the black kitten had been finished with earlier in the afternoon, and so, while Alice was sitting curled up in a corner of the great arm-chair, half talking to herself and half asleep, the kitten had been having a grand game of romps with the ball of worsted Alice had been trying to wind up, and had been rolling it up and down till it had all come undone again; and there it was, spread over the hearth-rug, all knots and tangles, with the kitten running after its own tail in the middle."
+
+#. font sample
+#: 
+msgid "Handgloves"
+msgstr "Handgloves"
+
+#. font sample
+#: 
+msgid "Heavy boxes perform quick waltzes and jigs."
+msgstr "Heavy boxes perform quick waltzes and jigs."
+
+#. font sample
+#: 
+msgid "Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz 1234567890 $#*"
+msgstr "Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz 1234567890 $#* "
+
+#. font sample
+#: 
+msgid "Somehow, although he is the smallest office boy around the place, none of the other lads pick on him. Scuffling and fighting almost has ceased since Kerensky came to work. That's only one of the nicknames of Leo Kobreen, and was assigned to him because of a considerable facial resemblance to the perpetually fleeing Russian statesman, and, too, because both wore quite formal standing collars."
+msgstr "Somehow, although he is the smallest office boy around the place, none of the other lads pick on him. Scuffling and fighting almost has ceased since Kerensky came to work. That's only one of the nicknames of Leo Kobreen, and was assigned to him because of a considerable facial resemblance to the perpetually fleeing Russian statesman, and, too, because both wore quite formal standing collars."
+
+#. font style
+#: 
+msgid "Details"
+msgstr "Dettagli"
+
+#. font style
+#: 
+msgid "Subfamily"
+msgstr "Sottofamiglia"
+
+#. font style
+#: 
+msgid "Style"
+msgstr "Stile"
+
+#. font style
+#: 
+msgid "Weight"
+msgstr "Peso"
+
+#. font style
+#: 
+msgid "Yes"
+msgstr "Sì"
+
+#. footer
+#: 
+msgid "Credits"
+msgstr "Attribuzioni"
+
+#. footer
+#: 
+msgid "Terms of Service"
+msgstr "Termini di Servizio"
+
+#. footer
+#: 
+msgid "Found Bugs"
+msgstr "Bug Trovati"
+
+#. footer
+#: 
+msgid "Made in %1$s"
+msgstr "Creato in %1$s."
+
+#. footer
+#: 
+msgid "Built by %1$s"
+msgstr "Creato da %1$s"
+
+#. footer
+#: 
+msgid "Designed by %1$s"
+msgstr "Disegnato da %1$s"
+
+#. footer
+#: 
+msgid "Email us"
+msgstr "Mandaci una email"
+
+#. header
+#: 
+msgid "Guidebook"
+msgstr "Guida"
+
+#. header
+#: 
+msgid "Catalogue"
+msgstr "Catalogo"
+
+#. header
+#: 
+msgid "Profile"
+msgstr "Profilo"
+
+#. header
+#: 
+msgid "Search"
+msgstr "Cerca"
+
+#. header
+#: 
+msgid "Sign out"
+msgstr "Disconnetiti"
+
+#. header
+#: 
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#. homepage
+#: 
+msgid "Featured Fonts"
+msgstr "Font in primo piano"
+
+#. homepage
+#: 
+msgid "Browse our catalogue and see what's new."
+msgstr "Naviga il nostro catalogo e vedi cosa c'è di nuovo."
+
+#. homepage
+#: 
+msgid "Share your fonts"
+msgstr "Condividi i tuoi font"
+
+#. homepage
+#: 
+msgid "If you would like to contribute fonts to the Font Library, please <a href=\"%1$s\">sign up</a> for a membership or <a href=\"%2$s\">sign in</a> if you already have an account."
+msgstr "Se vuoi contribuire font a Font Library, per favore <a href=\"%1$s\">iscriviti</a> o <a href=\"%2$s>accedi</a> se hai già un account."
+
+#. homepage
+#: 
+msgid "sign up"
+msgstr "iscriviti"
+
+#. homepage
+#: 
+msgid "sign in"
+msgstr "accedi"
+
+#. homepage
+#: 
+msgid "Web Fonts"
+msgstr "Web Fonts"
+
+#. homepage
+#: 
+msgid "All of these fonts can be effortlessly included on your website's design, thanks to the wonderful features of CSS."
+msgstr "Tutti questi font possono essere inclusi senza sforzo nel design del tuo sito web, grazie alle meravigliose caratteristiche dei CSS."
+
+#. homepage
+#: 
+msgid "Read about Open Fonts"
+msgstr "Leggi degli Open Fonts"
+
+#. homepage
+#: 
+msgid "Numbers"
+msgstr "Numeri"
+
+#. homepage
+#: 
+msgid "%1$d uploaded font family"
+msgid_plural "%1$d uploaded font families"
+msgstr[0] "%1$d famiglia di font caricata"
+msgstr[1] "%1$d famiglie di font caricate"
+
+#. homepage
+#: 
+msgid "%1$d uploaded font file"
+msgid_plural "%1$d uploaded font files"
+msgstr[0] "%1$d file di font caricato"
+msgstr[1] "%1$d file di font caricati"
+
+#. homepage
+#: 
+msgid "%1$d contributor"
+msgid_plural "%1$d contributors"
+msgstr[0] "%1$d collaboratore"
+msgstr[1] "%1$d collaboratori"
+
+#. homepage
+#: 
+msgid "Latest Fonts"
+msgstr "Ultimi Font"
+
+#. homepage
+#: 
+msgid "Browse The Complete Catalogue"
+msgstr "Naviga Il Catalogo Completo"
+
+#. homepage
+#: 
+msgid "All of the fonts that appear on this site come with the freedom to use, study, share and remix them."
+msgstr "Tutti i font che appaiono su questo sito sono liberi di essere usati, studiati, condivisi e modificati."
+
+#. homepage
+#: 
+msgid "Seeking Translators"
+msgstr "Cerchiamo Traduttori"
+
+#. homepage
+#: 
+msgid "Learn how you can help internationalize Font Library"
+msgstr "Scopri come puoi aiutare ad internazionalizzare Font Library."
+
+#. homepage
+#: 
+msgid "Become a translator"
+msgstr "Diventa un traduttore"
+
+#. homepage
+#: 
+msgid "Translate the site"
+msgstr "Traduci questo sito"
+
+#. homepage
+#: 
+msgid "Font Library is all fonts. Free Downloads and Quality Support."
+msgstr "Font Library è tutti i font. Download Gratuiti e Supporto di Qualità."
+
+#. homepage
+#: 
+msgid "The Font Library is all fonts."
+msgstr "Font Library è tutti i font."
+
+#. homepage
+#: 
+msgid "Popular Fonts"
+msgstr "Font Popolari"
+
+#. language
+#: 
+msgid "Hebrew"
+msgstr "Ebraico"
+
+#. language
+#: 
+msgid "Basic Cyrillic"
+msgstr "Cirillico di base"
+
+#. language
+#: 
+msgid "Basic Latin"
+msgstr "Latino di base"
+
+#. language
+#: 
+msgid "Language Support"
+msgstr "Supporto del Linguaggio"
+
+#. language
+#: 
+msgid "Missing glyphs:"
+msgstr "Glifi mancanti:"
+
+#. language
+#: 
+msgid "Arabic"
+msgstr "Arabico"
+
+#. language
+#: 
+msgid "Basic Greek"
+msgstr "Greco di base"
+
+#. language
+#: 
+msgid "Languages"
+msgstr "Linguaggi"
+
+#. language
+#: 
+msgid "Cyrillic"
+msgstr "Cirillico"
+
+#. language
+#: 
+msgid "Euro"
+msgstr "Euro"
+
+#. language
+#: 
+msgid "Greek"
+msgstr "Greco"
+
+#. language
+#: 
+msgid "Thai"
+msgstr "Thai"
+
+#. language
+#: 
+msgid "Turkish"
+msgstr "Turco"
+
+#. language
+#: 
+msgid "Vietnamese"
+msgstr "Vietnamese"
+
+#. language
+#: 
+msgid "Western European"
+msgstr "Europeo Occidentale"
+
+#. language
+#: 
+msgid "View complete language list"
+msgstr "Vedi la lista completa dei linguaggi"
+
+#. language
+#: 
+msgid "Languages and Orthographies for the Font Library"
+msgstr "Linguaggi ed Ortografie per Font Library"
+
+#. member
+#: 
+msgid "It looks like %1$s hasn't uploaded any fonts yet."
+msgstr "Sembra che %1$s non ha ancora caricato alcun font."
+
+#. member
+#: 
+msgid "Welcome to the Font Library!"
+msgstr "Benvenuto a Font Library!"
+
+#. member
+#: 
+msgid "If you are ready to contribute your fonts to our collection, you can create a font family and upload your font files using our easy form."
+msgstr "Se sei pronto a contribuire i tuoi font alla nostra collezione puoi creare una famiglia di font ed uploadare i tuoi file usando il nostro semplice modulo."
+
+#. member
+#: 
+msgid "We are interested in fonts that you yourself have designed and that you have made available under a free font license."
+msgstr "Siamo interessati in font che tu stesso hai disegnato e reso disponibili sotto una licenza di font gratuita."
+
+#. member
+#: 
+msgid "free font license"
+msgstr "licenza di font gratuita"
+
+#. member
+#: 
+msgid "If you would like to ask questions or get updates from the community, please join our mailing list."
+msgstr "Se vuoi porre domande o essere aggiornato dalla comunità, iscriviti alla nostra mailing list."
+
+#. member
+#: 
+msgid "You can also find us in the ##fonts channel on Freenode."
+msgstr "Ci puoi anche trovare sul canale ##fonts su Freenode."
+
+#. member
+#: 
+msgid "Member"
+msgstr "Membro"
+
+#. member
+#: 
+msgid "Name"
+msgstr "Nome"
+
+#. member
+#: 
+msgid "Homepage"
+msgstr "Homepage"
+
+#. member
+#: 
+msgid "Membership Status"
+msgstr ""
+
+#. member
+#: 
+msgid "Member since"
+msgstr "Membro da"
+
+#. member
+#: 
+msgid "edit member info"
+msgstr "modifica informazioni membro"
+
+#. member
+#: 
+msgid "We welcome you to contribute more of your fonts to the Library! Go ahead and <a href=\"%1$s\">create a new font family</a>."
+msgstr ""
+
+#. member
+#: 
+msgid "You can use this form to update your settings."
+msgstr "Puoi usare questo modulo per aggiornare le tue impostazioni."
+
+#. member
+#: 
+msgid "Group"
+msgstr "Gruppo"
+
+#. member
+#: 
+msgid "Font Status"
+msgstr "Stato del Font"
+
+#. member
+#: 
+msgid "There are one or more font files that are under review by our Librarians."
+msgstr "Ci sono uno o più font in fase di revisione da parte dei nostri Bibliotecari."
+
+#. member
+#: 
+msgid "Send <a href=\"%1$s\">%2$s</a> a message about these fonts."
+msgstr "Invia a <a href=\"%1$s\">%2$s</a> un messaggio a proposito di questi font."
+
+#. member
+#: 
+msgid "Contributor"
+msgstr "Collaboratore"
+
+#. member
+#: 
+msgid "The following fonts are currently under review."
+msgstr "I font seguenti sono in fase di revisione."
+
+#. member
+#: 
+msgid "user member page on the Font Library"
+msgstr "pagina membro su Font Library"
+
+#. member
+#: 
+msgid "Create a Font"
+msgstr "Crea un Font"
+
+#. member
+#: 
+msgid "Librarian"
+msgstr "Bibliotecario"
+
+#. member settings
+#: 
+msgid "Librarians"
+msgstr "Bibliotecari"
+
+#. member settings
+#: 
+msgid "Submit"
+msgstr "Invia"
+
+#. member settings
+#: 
+msgid "Your password has been changed. Your settings have been saved!"
+msgstr "La tua password è stata cambiata. Le tue impostazioni sono state salvate!"
+
+#. navigation
+#: 
+msgid "Back"
+msgstr "Indietro"
+
+#. navigation
+#: 
+msgid "Next"
+msgstr "Avanti"
+
+#. search
+#: 
+msgid "Results"
+msgstr "Risultati"
+
+#. sign in
+#: 
+msgid "Username"
+msgstr "Nome utente"
+
+#. sign in
+#: 
+msgid "Password"
+msgstr "Password"
+
+#. sign in
+#: 
+msgid "Need Help"
+msgstr "Bisogno di Aiuto"
+
+#. sign in
+#: 
+msgid "You are not a member"
+msgstr "Non sei un membro"
+
+#. sign in
+#: 
+msgid "You might want to head on over to our <a href=\"%1$s\">sign up</a> page."
+msgstr ""
+
+#. sign in
+#: 
+msgid "page"
+msgstr "pagina"
+
+#. sign in
+#: 
+msgid "You forgot your password"
+msgstr "Hai dimenticato la password"
+
+#. sign in
+#: 
+msgid "You can recover it with our handy <a href=\"%1$s\">password recovery</a>."
+msgstr "Puoi recuperarla con il nostro utile <a href=\"%1$s\">recupero password</a>."
+
+#. sign in
+#: 
+msgid "password recovery"
+msgstr "recupero della password"
+
+#. sign in
+#: 
+msgid "Password Reset"
+msgstr "Reset della Password"
+
+#. sign in
+#: 
+msgid "You can recover it by entering your email address and username. You will receive an email with a link to reset your password."
+msgstr "Puoi recuperarla inserendo il tuo indirizzo email e nome utente. Riceverai una email con un link per resettare la tua password."
+
+#. sign up
+#: 
+msgid "Welcome"
+msgstr "Benvenuto"
+
+#. sign up
+#: 
+msgid "Your registration was successful. We are looking forward to your participation."
+msgstr "La tua registrazione è avvenuta con successo. Siamo felici della tua partecipazione."
+
+#. sign up
+#: 
+msgid "Please sign in now with your username and password."
+msgstr "Accedi ora con il tuo nome utente e la tua password."
+
+#. sign up
+#: 
+msgid "Enter the words in the image"
+msgstr "Inserisci le parole nell'immagine"
+
+#. sign up
+#: 
+msgid "Enter the numbers you hear"
+msgstr "Inserisci i numeri che senti"
+
+#. sign up
+#: 
+msgid "Get an audio CAPTCHA"
+msgstr "Ottieni una CAPTCHA audio"
+
+#. sign up
+#: 
+msgid "Get an image CAPTCHA"
+msgstr "Ottieni una immagine di CAPTCHA"
+
+#. sign up
+#: 
+msgid "Help"
+msgstr "Aiuto"
+
+#. sign up
+#: 
+msgid "Incorrect please try again"
+msgstr "Incorretto prova ancora"
+
+#. sign up
+#: 
+msgid "Registrations have been temporarily disabled."
+msgstr "Le registrazioni sono state disabilitate temporaneamente."
+
+#. sign up
+#: 
+msgid "We apologize for the inconvenience. Please check back later."
+msgstr "Ci scusiamo per il disagio. Per favore riprova più tardi."
+
+#. sign up
+#: 
+msgid "Become a Member"
+msgstr "Diventa un Membro"
+
+#. sign up
+#: 
+msgid "Join"
+msgstr "Unisciti"
+
+#. sign up
+#: 
+msgid "The mission of the Font Library is to promote your freedoms as it relates to the use of type."
+msgstr "La missione di Font Library è di promuovere le tue libertà per quanto riguarda l'uso dei font."
+
+#. sign up
+#: 
+msgid "Head on over to the <a href=\"%1$s\">sign in</a> page."
+msgstr "Vai alla <a href=\"%1$s\">pagina di accesso</a>."
+
+#. sign up
+#: 
+msgid "Check your email"
+msgstr "Controlla la tua email"
+
+#. sign up
+#: 
+msgid "You should have received a confirmation email at the address you specified."
+msgstr "Dovresti aver ricevuto una email di conferma all'indirizzo specificato"
+
+#. sign up
+#: 
+msgid "In case you forget your password"
+msgstr "Nel caso tu abbia dimenticato la tua password"
+
+#. sign up
+#: 
+msgid "If you need more information"
+msgstr "Se hai bisogno di più informazioni"
+
+#. sign up
+#: 
+msgid "You can consult our <a href=\"%1$s\">guidebook</a> to find more answers to your questions on using the site, uploading fonts and connecting with the Font Library community."
+msgstr ""
+
+#. sign up
+#: 
+msgid "By using this site you agree to be bound by our <a href=\"%1$s\">terms and conditions</a>."
+msgstr "Usando questo sito acconsenti ai nostri <a href=\"%1$s\">termini e condizioni</a>."
+
+#. sign up
+#: 
+msgid "terms and conditions"
+msgstr "termini e condizioni"
+
+#. sign up
+#: 
+msgid "Select a New Password"
+msgstr "Scegli una Nuova Password"
+
+#. sign up
+#: 
+msgid "Choose a strong password."
+msgstr "Scegli una password sicura."
+
+#. sign up
+#: 
+msgid "Enter your new password at left and confirm it by entering it again."
+msgstr "Inserisci la tua nuova password a sinistra e confermala inserendola di nuovo."
+
+#. sign up
+#: 
+msgid "By signing up you can share and remix fonts, and get help from our global community of designers."
+msgstr "Iscrivendoti puoi condividere e modificare font, ed ottenere aiuto dalla nostra comunità di designers globale."
+
+#. tags
+#: 
+msgid "fonts, open font library, library, open source, fontlibrary, font-library, free software, community, aiki framework"
+msgstr "fonts, open font library, library, open source, fontlibrary, font-library, free software, community, aiki framework"
+
+#. terms
+#: 
+msgid "Copyright"
+msgstr "Copyright"
+
+#. terms
+#: 
+msgid "All fonts available on this site are copyrighted by their creators, and are licensed individually for your use. You can find the license for each font by visiting the font's profile page. By downloading the fonts you agree to be bound by the terms of the license."
+msgstr ""
+
+#. terms
+#: 
+msgid "Unless otherwise noted, content on this site is published under <a href=\"%1$s\">%2$s</a>."
+msgstr ""
+
+#. terms
+#: 
+msgid "Creative Commons Attribution-ShareAlike"
+msgstr "Creative Commons Attribution-ShareAlike"
+
+#. terms
+#: 
+msgid "By contributing to this site, you agree to make your contributions available under the same license, with the exception of font contributions, which will remain under the license specified by the font files."
+msgstr "Contribuendo a questo sito acconsenti a rendere i tuoi contributi disponibili sotto la stessa licenza, con l'eccezione delle contribuzioni dei font, che rimarranno sotto la licenza specificata dai font stessi."
+
+#. terms
+#: 
+msgid "Disclaimer"
+msgstr "Disclaimer"
+
+#. terms
+#: 
+msgid "The Font Library has a stated policy of only accepting contributions that are available under a free or open source license. However, we can not guarantee or accept any responsibility or liability for the veracity of the information and font data on this Web site. If you have any questions or concerns, please do not hesitate to contact us."
+msgstr ""
+
+#. terms
+#: 
+msgid "License"
+msgstr "Licenza"
+
+#. terms
+#: 
+msgid "All fonts are published under the license specified by their creators."
+msgstr "Tutti i font sono pubblicati sotto le licenze specificate dai loro creatori."
+
+#. terms
+#: 
+msgid "Terms"
+msgstr "Condizioni"
+
+#. translation
+#: 
+msgid "Translations"
+msgstr "Traduzioni"
+
+#. _dmca
+#: 
+msgid "Email"
+msgstr "Email"
+
+#. footer
+#: 
+msgid "EMAIL US"
+msgstr "INVIACI UNA EMAIL"
+
+#. homepage
+#: 
+msgid "If you already have an account"
+msgstr "Se hai già un account"
+
+#. member
+#: 
+msgid "Welcome to the Open Font Library!"
+msgstr "Benvenuto a Open Font Library!"
+
+#. homepage
+#: 
+msgid "uploaded font families"
+msgstr "famiglie di font caricate"
+
+#. homepage
+#: 
+msgid "uploaded font files"
+msgstr "font caricati"
+
+#. homepage
+#: 
+msgid "contributors"
+msgstr "collaboratori"
+
+#. font
+#: 
+msgid "Your font is currently under review by our Librarians. It has been flagged as %0$s."
+msgstr "Il tuo font è al momento in fase di revisione da parte dei nostri Bibliotecari. È stato contrassegnato come %0$s."
+
+#. font
+#: 
+msgid "styles"
+msgstr "stili"
+
+#. Sign in
+#: 
+msgid "Sign in"
+msgstr "Accedi"
+
+#. Sign up
+#: 
+msgid "Sign up"
+msgstr "Iscriviti"
+
+#: 
+msgid "Serif"
+msgstr "Serif"
+
+#: 
+msgid "Sans-serif"
+msgstr "Sans-serif"
+
+#: 
+msgid "Handwriting"
+msgstr "Calligrafia"
+
+#: 
+msgid "Display"
+msgstr "Display"
+
+#: 
+msgid "Monospaced"
+msgstr "Spaziatura fissa"
+
+#: 
+msgid "Dingbat"
+msgstr "Dingbat"
+
+#: 
+msgid "Blackletter"
+msgstr "Blackletter"
+
+#: 
+msgid "Follow on <a href=\"%1$s\">Twitter</a>"
+msgstr "Segui su <a href=\"%1$s\">Twitter</a>"
+
+#: 
+msgid "Like on <a href=\"%1$s\">Facebook</a>"
+msgstr "Mi piace su <a href=\"%1$s\">Facebook</a>"
+
+#: 
+msgid "Pin on <a href=\"%1$s\">Pinterest</a>"
+msgstr "Pin su <a href=\"%1$s\">Pinterest</a>"
+
+#. font
+#: 
+msgid "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>added today</span>"
+msgstr "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>aggiunto oggi</span>"
+
+#. font
+#: 
+msgid "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>updated today</span>"
+msgstr "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>aggiornato oggi</span>"
+
+#. font
+#: 
+msgid "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>added yesterday</span>"
+msgstr "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>aggiunto ieri</span>"
+
+#. font
+#: 
+msgid "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>updated yesterday</span>"
+msgstr "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>aggiornato ieri</span>"
+
+#. font
+#: 
+msgid "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>added %3$d day ago</span>"
+msgid_plural "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>added %3$d days ago</span>"
+msgstr[0] "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>aggiunto %3$d giorno fa</span>"
+msgstr[1] "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>aggiunto %3$d giorni fa</span>"
+
+#. font
+#: 
+msgid "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>updated %3$d day ago</span>"
+msgid_plural "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>updated %3$d day ago</span>"
+msgstr[0] "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>aggiornato %3$d giorno fa</span>"
+msgstr[1] "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>aggiornato %3$d giorni fa</span>"
+
+#. font style
+#: 
+msgid "%1$d style"
+msgid_plural "%1$d styles"
+msgstr[0] "%1$d stile"
+msgstr[1] "%1$d stili"
+
+#. language
+#: 
+msgid "Partial Language Support"
+msgstr "Supporto Parziale del Linguaggio"
+
+#. language
+#: 
+msgid "No Language Support"
+msgstr "Nessun Supporto del Linguaggio"
+
+#: 
+msgid "Contact us"
+msgstr "Contattaci"
+
+#: 
+msgid "For questions, please email <a href=\"mailto:%1$s\">%1$s</a>"
+msgstr "Per le domande, invia una email a <a href=\"mailto:%1$s\">%1$s</a> "
+
