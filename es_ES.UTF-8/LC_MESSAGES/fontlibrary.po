@@ -1288,5 +1288,5 @@ msgstr "Contáctanos"
 
 #: 
 msgid "For questions, please email <a href=\"mailto:%1$s\">%1$s</a>"
-msgstr ""
+msgstr "Si tienes preguntas, por favor escribenos a <a href=\"mailto:%1$s\">%1$s</a>"
 
