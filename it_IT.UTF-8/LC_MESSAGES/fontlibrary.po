@@ -106,7 +106,7 @@ msgstr "Descrivi il tuo font in un paragrafo."
 #. create
 #: 
 msgid "We require submissions to include at least one font file in OTF or TTF format. Make sure each font file includes your name, URL, copyright and a supported <a href=\"%1$s\">free font license</a>."
-msgstr "Richiediamo che le contribuzioni includano almeno un file di font in formato OTF o TTF. Assicurati che ogni file di font includa il tuo nome, URL, copyright ed una <a href=\"%1$s\">licenza di font gratuita</a> supportata."
+msgstr "Richiediamo che le contribuzioni includano almeno un font in formato OTF o TTF. Assicurati che font includa il tuo nome, URL, copyright ed una <a href=\"%1$s\">licenza di font gratuita</a> supportata."
 
 #. create
 #: 
@@ -597,8 +597,8 @@ msgstr[1] "%1$d famiglie di font caricate"
 #: 
 msgid "%1$d uploaded font file"
 msgid_plural "%1$d uploaded font files"
-msgstr[0] "%1$d file di font caricato"
-msgstr[1] "%1$d file di font caricati"
+msgstr[0] "%1$d font caricato"
+msgstr[1] "%1$d font caricati"
 
 #. homepage
 #: 
@@ -795,7 +795,7 @@ msgstr "Homepage"
 #. member
 #: 
 msgid "Membership Status"
-msgstr ""
+msgstr "Stato membro"
 
 #. member
 #: 
@@ -810,7 +810,7 @@ msgstr "modifica informazioni membro"
 #. member
 #: 
 msgid "We welcome you to contribute more of your fonts to the Library! Go ahead and <a href=\"%1$s\">create a new font family</a>."
-msgstr ""
+msgstr "Sei il benvenuto a contribuire altri dei tuoi font alla Library! <a href=\"%1$s\">Crea una nuova famiglia di font</a>."
 
 #. member
 #: 
@@ -915,7 +915,7 @@ msgstr "Non sei un membro"
 #. sign in
 #: 
 msgid "You might want to head on over to our <a href=\"%1$s\">sign up</a> page."
-msgstr ""
+msgstr "Potresti andare sulla nostra <a href=\"%1$s\">pagina di registrazione</a>."
 
 #. sign in
 #: 
@@ -1045,7 +1045,7 @@ msgstr "Se hai bisogno di più informazioni"
 #. sign up
 #: 
 msgid "You can consult our <a href=\"%1$s\">guidebook</a> to find more answers to your questions on using the site, uploading fonts and connecting with the Font Library community."
-msgstr ""
+msgstr "Puoi consultare la nostra <a href=\"%1$s\">guida</a> per trovare altre risposte alle tue domande sull'uso del sito, il caricamento dei font e come connettersi con la comunità di Font Library."
 
 #. sign up
 #: 
@@ -1090,12 +1090,12 @@ msgstr "Copyright"
 #. terms
 #: 
 msgid "All fonts available on this site are copyrighted by their creators, and are licensed individually for your use. You can find the license for each font by visiting the font's profile page. By downloading the fonts you agree to be bound by the terms of the license."
-msgstr ""
+msgstr "Tutti i font disponibili su questo sito sono protetti da copyright dai loro autori e sono concessi in licenza individuale per il tuo uso. Puoi trovare le licenze per ogni font visitando la pagina di profilo del font. Scaricando i font accetti di essere vincolato dai termini della licenza."
 
 #. terms
 #: 
 msgid "Unless otherwise noted, content on this site is published under <a href=\"%1$s\">%2$s</a>."
-msgstr ""
+msgstr "Eccetto che dove indicato altrimenti, i contenuti di questo sito sono pubblicati sottto <a href=\"%1$s\">%2$s</a>."
 
 #. terms
 #: 
@@ -1115,7 +1115,7 @@ msgstr "Disclaimer"
 #. terms
 #: 
 msgid "The Font Library has a stated policy of only accepting contributions that are available under a free or open source license. However, we can not guarantee or accept any responsibility or liability for the veracity of the information and font data on this Web site. If you have any questions or concerns, please do not hesitate to contact us."
-msgstr ""
+msgstr "La politica di Font Library è di accettare solo contributi che sono disponibili sotto una licenza gratuita od open source. Comunque non possiamo garantire o accettare qualsiasi responsabilità per quanto riguarda la veridicità delle informazioni e dei dati dei font su questo sito web. Se hai domande o preoccupazioni non esitare a contattarci."
 
 #. terms
 #: 
