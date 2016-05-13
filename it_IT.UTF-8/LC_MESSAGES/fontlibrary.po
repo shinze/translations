@@ -320,7 +320,6 @@ msgstr "Dimensione fissa"
 
 #. font
 #: 
-#, fuzzy
 msgid "About"
 msgstr "Informazioni su"
 
