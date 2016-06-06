@@ -76,7 +76,7 @@ msgstr "Messaggio"
 #. contact
 #: 
 msgid "Use this form to contact <a href=\"%1$s\">%2$s</a>."
-msgstr "Usa questa form per contattare <a href=\"%1$s\">%2$s</a>."
+msgstr "Usa questo modulo per contattare <a href=\"%1$s\">%2$s</a>."
 
 #. contact
 #: 
@@ -408,7 +408,7 @@ msgstr "Ora puoi usare questo font nel tuo file css."
 #. font
 #: 
 msgid "Here is an example of a paragraph set in %1$s."
-msgstr "Qui c'è un esempio di un paragrafo che usa %1$s."
+msgstr "Per esempio, come usare %1$s in un paragrafo."
 
 #. font
 #: 
@@ -553,7 +553,7 @@ msgstr "Condividi i tuoi font"
 #. homepage
 #: 
 msgid "If you would like to contribute fonts to the Font Library, please <a href=\"%1$s\">sign up</a> for a membership or <a href=\"%2$s\">sign in</a> if you already have an account."
-msgstr "Se vuoi contribuire font a Font Library, per favore <a href=\"%1$s\">iscriviti</a> o <a href=\"%2$s>accedi</a> se hai già un account."
+msgstr "Se vuoi contribuire font a Font Library, per favore <a href=\"%1$s\">iscriviti</a> o <a href=\"%2$s\">accedi</a> se hai già un account."
 
 #. homepage
 #: 
@@ -744,7 +744,7 @@ msgstr "Linguaggi ed Ortografie per Font Library"
 #. member
 #: 
 msgid "It looks like %1$s hasn't uploaded any fonts yet."
-msgstr "Sembra che %1$s non ha ancora caricato alcun font."
+msgstr "Sembra che %1$s non abbia ancora caricato alcun font."
 
 #. member
 #: 
@@ -754,7 +754,7 @@ msgstr "Benvenuto a Font Library!"
 #. member
 #: 
 msgid "If you are ready to contribute your fonts to our collection, you can create a font family and upload your font files using our easy form."
-msgstr "Se sei pronto a contribuire i tuoi font alla nostra collezione puoi creare una famiglia di font ed uploadare i tuoi file usando il nostro semplice modulo."
+msgstr "Se sei pronto a contribuire i tuoi font alla nostra collezione puoi creare una famiglia di font ed caricare i tuoi file usando il nostro semplice modulo."
 
 #. member
 #: 
@@ -1044,7 +1044,7 @@ msgstr "Se hai bisogno di più informazioni"
 #. sign up
 #: 
 msgid "You can consult our <a href=\"%1$s\">guidebook</a> to find more answers to your questions on using the site, uploading fonts and connecting with the Font Library community."
-msgstr "Puoi consultare la nostra <a href=\"%1$s\">guida</a> per trovare altre risposte alle tue domande sull'uso del sito, il caricamento dei font e come connettersi con la comunità di Font Library."
+msgstr "Puoi consultare la nostra <a href=\"%1$s\">guida</a> per trovare altre risposte alle tue domande sull'uso del sito, l'upload dei font e come connettersi con la comunità di Font Library."
 
 #. sign up
 #: 
