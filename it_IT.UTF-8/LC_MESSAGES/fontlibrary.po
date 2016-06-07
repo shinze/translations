@@ -246,7 +246,7 @@ msgstr "Stili"
 #. font
 #: 
 msgid "Fonts"
-msgstr "Caratteri"
+msgstr "Font"
 
 #. font
 #: 
