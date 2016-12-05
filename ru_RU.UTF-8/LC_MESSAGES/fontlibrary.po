@@ -11,12 +11,12 @@ msgstr ""
 #. catalogue
 #: 
 msgid "Updates"
-msgstr "Пополнения"
+msgstr "Обновления"
 
 #. catalogue
 #: 
 msgid "Create"
-msgstr "Добавление"
+msgstr "Создать"
 
 #. catalogue
 #: 
@@ -31,7 +31,7 @@ msgstr "Категории"
 #. catalogue
 #: 
 msgid "Contribute to the Font Library by adding your work to our collection!"
-msgstr "Внесите вклад в Font Library загрузкой своей работы в нашу коллекцию!"
+msgstr "Внесите вклад в Font Library - загрузите свою работу в нашу коллекцию!"
 
 #. catalogue
 #: 
@@ -56,7 +56,7 @@ msgstr "Обратная связь"
 #. contact
 #: 
 msgid "Contact %1$s"
-msgstr "связаться с %1$s"
+msgstr "Связаться с %1$s"
 
 #. contact
 #: 
@@ -86,22 +86,22 @@ msgstr "Мы отправим письмо от вашего имени, исп�
 #. create
 #: 
 msgid "Font Name"
-msgstr ""
+msgstr "Название шрифта"
 
 #. create
 #: 
 msgid "Zip File"
-msgstr ""
+msgstr "Zip файл"
 
 #. create
 #: 
 msgid "Tell us the name of your font. If it includes more than one variant or style, supply the name for the entire font family. Please give it a name using Latin letters, as this will be used to set the URL for your font. You can change your font's display name later from its settings page."
-msgstr ""
+msgstr "Сообщите нам имя вашего шрифта. Если шрифт включает более одного варианта или стиля, дайте имя всему семейству шрифтов. Для имени используйте только латинские буквы так как оно будет использовано для построения URL вашего шрифта. При желании вы можете поменять отображаемое имя шрифта позже со страницы конфигурации."
 
 #. create
 #: 
 msgid "Give us a one-paragraph description of your font."
-msgstr ""
+msgstr "Предоставьте нам один абзац описания вашего шрифта."
 
 #. create
 #: 
@@ -171,7 +171,7 @@ msgstr ""
 #. dashboard
 #: 
 msgid "Users"
-msgstr ""
+msgstr "Пользователи"
 
 #. dashboard
 #: 
@@ -186,7 +186,7 @@ msgstr "Инструкции"
 #. edit
 #: 
 msgid "You can use this form to revise information about your font, and upload the latest version."
-msgstr ""
+msgstr "Вы можете использовать эту форму для просмотра и обновления информации о вашем шрифте а так же для загрузки его обновленной версии."
 
 #. edit
 #: 
@@ -201,7 +201,7 @@ msgstr "Пример"
 #. edit
 #: 
 msgid "Update"
-msgstr ""
+msgstr "Обновить"
 
 #. edit
 #: 
@@ -216,7 +216,7 @@ msgstr "сообщить об ошибке"
 #. error
 #: 
 msgid "Sorry there is no such page"
-msgstr ""
+msgstr "Извините, страницы не существует"
 
 #. font
 #: 
@@ -241,12 +241,12 @@ msgstr "Абзац"
 #. font
 #: 
 msgid "Styles"
-msgstr "стилей"
+msgstr "Стилей"
 
 #. font
 #: 
 msgid "Fonts"
-msgstr "шрифтов"
+msgstr "Шрифтов"
 
 #. font
 #: 
@@ -291,7 +291,7 @@ msgstr "Использование этого шрифта"
 #. font
 #: 
 msgid "To use this font in your website add the following code to the head of your html page:"
-msgstr ""
+msgstr "Для использования шрифта на вашем сайте, добавьте следующий код в блок head документа html:"
 
 #. font
 #: 
@@ -311,12 +311,12 @@ msgstr "Количество символов"
 #. font
 #: 
 msgid "Fixed Width"
-msgstr ""
+msgstr "Фиксированная ширина"
 
 #. font
 #: 
 msgid "Fixed Size"
-msgstr ""
+msgstr "Фиксированный размер"
 
 #. font
 #: 
@@ -340,7 +340,7 @@ msgstr "Скачать %1$s"
 #. font
 #: 
 msgid "Updated"
-msgstr ""
+msgstr "Обновлен"
 
 #. font
 #: 
