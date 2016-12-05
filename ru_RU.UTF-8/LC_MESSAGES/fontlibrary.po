@@ -992,12 +992,12 @@ msgstr "Получить CAPTCHA-картинку"
 #. sign up
 #: 
 msgid "Help"
-msgstr ""
+msgstr "Помощь"
 
 #. sign up
 #: 
 msgid "Incorrect please try again"
-msgstr ""
+msgstr "Ошибка! Пожалуйста попробуйте еще раз."
 
 #. sign up
 #: 
@@ -1007,7 +1007,7 @@ msgstr "Регистрация была временно отключена."
 #. sign up
 #: 
 msgid "We apologize for the inconvenience. Please check back later."
-msgstr "We apologize for the inconvenience. Please check back later."
+msgstr "Мы приносим извинения за неудобства. Пожалуйста попробуйте зайти позже."
 
 #. sign up
 #: 
@@ -1037,17 +1037,17 @@ msgstr "Проверьте свой email"
 #. sign up
 #: 
 msgid "You should have received a confirmation email at the address you specified."
-msgstr ""
+msgstr "Вы должны были получить e-mail с подтвеждением о регистрации на указанный вами адрес."
 
 #. sign up
 #: 
 msgid "In case you forget your password"
-msgstr ""
+msgstr "В случае если вы забыли пароль"
 
 #. sign up
 #: 
 msgid "If you need more information"
-msgstr ""
+msgstr "Если вам требуется больше информации"
 
 #. sign up
 #: 
@@ -1062,17 +1062,17 @@ msgstr "Используя этот сайт, вы подтверждаете с
 #. sign up
 #: 
 msgid "terms and conditions"
-msgstr ""
+msgstr "условия использования"
 
 #. sign up
 #: 
 msgid "Select a New Password"
-msgstr ""
+msgstr "Выбирите новый пароль"
 
 #. sign up
 #: 
 msgid "Choose a strong password."
-msgstr "Выберите стойкий пароль."
+msgstr "Выберите надежный пароль."
 
 #. sign up
 #: 
@@ -1127,22 +1127,22 @@ msgstr ""
 #. terms
 #: 
 msgid "License"
-msgstr ""
+msgstr "Лицензия"
 
 #. terms
 #: 
 msgid "All fonts are published under the license specified by their creators."
-msgstr ""
+msgstr "Все шрифты опубликованы под лицензией указоной ихним создателем."
 
 #. terms
 #: 
 msgid "Terms"
-msgstr ""
+msgstr "Условия"
 
 #. translation
 #: 
 msgid "Translations"
-msgstr ""
+msgstr "Переводы"
 
 #. _dmca
 #: 
@@ -1152,7 +1152,7 @@ msgstr "Электронная почта"
 #. footer
 #: 
 msgid "EMAIL US"
-msgstr ""
+msgstr "Напишите нам"
 
 #. homepage
 #: 
@@ -1162,7 +1162,7 @@ msgstr "Если у вас уже есть учётная запись"
 #. member
 #: 
 msgid "Welcome to the Open Font Library!"
-msgstr ""
+msgstr "Добро пожаловать в Open Font Library!"
 
 #. homepage
 #: 
@@ -1302,5 +1302,5 @@ msgstr ""
 
 #: 
 msgid "For questions, please email <a href=\"mailto:%1$s\">%1$s</a>"
-msgstr ""
+msgstr "По любым вопросам пожалуйста пишите на <a href=\"mailto:%1$s\">%1$s</a>"
 
