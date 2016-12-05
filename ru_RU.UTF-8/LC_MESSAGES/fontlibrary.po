@@ -360,7 +360,7 @@ msgstr ""
 #. font
 #: 
 msgid "Status"
-msgstr ""
+msgstr "Статус"
 
 #. font
 #: 
@@ -370,22 +370,22 @@ msgstr ""
 #. font
 #: 
 msgid "Share"
-msgstr "Share"
+msgstr "Поделись"
 
 #. font
 #: 
 msgid "Active"
-msgstr ""
+msgstr "Активный"
 
 #. font
 #: 
 msgid "Publication Date"
-msgstr ""
+msgstr "Дата публикации"
 
 #. font
 #: 
 msgid "Bold"
-msgstr ""
+msgstr "Жирный"
 
 #. font
 #: 
@@ -405,7 +405,7 @@ msgstr ""
 #. font
 #: 
 msgid "Now you can use this font in your css file."
-msgstr ""
+msgstr "Теперь вы можете использовать этот шрифт в вашем файле css"
 
 #. font
 #: 
@@ -420,7 +420,7 @@ msgstr ""
 #. font sample
 #: 
 msgid "Five quacking zephyrs jolt my wax bed."
-msgstr ""
+msgstr "Съешь ещё этих мягхких французских булок да выпей чаю."
 
 #. font sample
 #: 
@@ -430,7 +430,7 @@ msgstr ""
 #. font sample
 #: 
 msgid "Handgloves"
-msgstr ""
+msgstr "Рукописный"
 
 #. font sample
 #: 
@@ -470,7 +470,7 @@ msgstr ""
 #. font style
 #: 
 msgid "Yes"
-msgstr ""
+msgstr "Да"
 
 #. footer
 #: 
@@ -505,12 +505,12 @@ msgstr "Оформлено %1$s"
 #. footer
 #: 
 msgid "Email us"
-msgstr ""
+msgstr "Напишите нам"
 
 #. header
 #: 
 msgid "Guidebook"
-msgstr ""
+msgstr "Руководство"
 
 #. header
 #: 
@@ -642,7 +642,7 @@ msgstr "Узнайте, как вы можете интернационализ�
 #. homepage
 #: 
 msgid "Become a translator"
-msgstr "Стать переводчиком"
+msgstr "Стань переводчиком"
 
 #. homepage
 #: 
@@ -662,7 +662,7 @@ msgstr ""
 #. homepage
 #: 
 msgid "Popular Fonts"
-msgstr ""
+msgstr "Популярные шрифты"
 
 #. language
 #: 
@@ -682,7 +682,7 @@ msgstr "Основной латинский"
 #. language
 #: 
 msgid "Language Support"
-msgstr ""
+msgstr "Языковая поддержка"
 
 #. language
 #: 
@@ -702,47 +702,47 @@ msgstr "Основной греческий"
 #. language
 #: 
 msgid "Languages"
-msgstr ""
+msgstr "Языки"
 
 #. language
 #: 
 msgid "Cyrillic"
-msgstr ""
+msgstr "Кирилица"
 
 #. language
 #: 
 msgid "Euro"
-msgstr ""
+msgstr "Европейский"
 
 #. language
 #: 
 msgid "Greek"
-msgstr ""
+msgstr "Греческий"
 
 #. language
 #: 
 msgid "Thai"
-msgstr ""
+msgstr "Тайский"
 
 #. language
 #: 
 msgid "Turkish"
-msgstr ""
+msgstr "Турецкий"
 
 #. language
 #: 
 msgid "Vietnamese"
-msgstr ""
+msgstr "Вьетнамский"
 
 #. language
 #: 
 msgid "Western European"
-msgstr "Western European"
+msgstr "Восточно-европейский"
 
 #. language
 #: 
 msgid "View complete language list"
-msgstr ""
+msgstr "Просмотреть полный список языков"
 
 #. language
 #: 
@@ -752,12 +752,12 @@ msgstr ""
 #. member
 #: 
 msgid "It looks like %1$s hasn't uploaded any fonts yet."
-msgstr "It looks like %1$s Участник ещё не загрузил ни один шрифт."
+msgstr "Похоже на то что %1$s участник ещё не загрузил ни один шрифт."
 
 #. member
 #: 
 msgid "Welcome to the Font Library!"
-msgstr ""
+msgstr "Добро пожаловать в Font Library!"
 
 #. member
 #: 
@@ -767,7 +767,7 @@ msgstr "If you are ready to contribute your fonts to our collection, you can с�
 #. member
 #: 
 msgid "We are interested in fonts that you yourself have designed and that you have made available under a free font license."
-msgstr ""
+msgstr "Мы заинтересованы в шрифтах "
 
 #. member
 #: 
@@ -777,12 +777,12 @@ msgstr ""
 #. member
 #: 
 msgid "If you would like to ask questions or get updates from the community, please join our mailing list."
-msgstr ""
+msgstr "Если вы желаете задать вопрос или получать обновления от сообщества, подписывайтесь на нашу рассылку."
 
 #. member
 #: 
 msgid "You can also find us in the ##fonts channel on Freenode."
-msgstr "You can also find us in the ##fonts канал во Freenode."
+msgstr "Вы можете так же найти нас на канале ##fonts во Freenode."
 
 #. member
 #: 
@@ -792,12 +792,12 @@ msgstr "Участник"
 #. member
 #: 
 msgid "Name"
-msgstr "Ваше имя"
+msgstr "Имя"
 
 #. member
 #: 
 msgid "Homepage"
-msgstr ""
+msgstr "Домашняя страница"
 
 #. member
 #: 
@@ -822,22 +822,22 @@ msgstr ""
 #. member
 #: 
 msgid "You can use this form to update your settings."
-msgstr ""
+msgstr "Вы можете использовать эту форму для обновления ваших настроек."
 
 #. member
 #: 
 msgid "Group"
-msgstr ""
+msgstr "Группа"
 
 #. member
 #: 
 msgid "Font Status"
-msgstr ""
+msgstr "Статус шрифта"
 
 #. member
 #: 
 msgid "There are one or more font files that are under review by our Librarians."
-msgstr ""
+msgstr "Один или несколько файлов шрифтов находятся на валидации у наших Библиотекарей."
 
 #. member
 #: 
@@ -852,7 +852,7 @@ msgstr ""
 #. member
 #: 
 msgid "The following fonts are currently under review."
-msgstr ""
+msgstr "Шрифт находится на валидации."
 
 #. member
 #: 
@@ -867,22 +867,22 @@ msgstr ""
 #. member
 #: 
 msgid "Librarian"
-msgstr ""
+msgstr "Библиотекарь"
 
 #. member settings
 #: 
 msgid "Librarians"
-msgstr ""
+msgstr "Библиотекари"
 
 #. member settings
 #: 
 msgid "Submit"
-msgstr ""
+msgstr "Сохранить"
 
 #. member settings
 #: 
 msgid "Your password has been changed. Your settings have been saved!"
-msgstr ""
+msgstr "Ваш пароль был изменен. Ваши настройки были сохранены!"
 
 #. navigation
 #: 
@@ -902,7 +902,7 @@ msgstr "Результаты"
 #. sign in
 #: 
 msgid "Username"
-msgstr "Логин"
+msgstr "Имя пользователя"
 
 #. sign in
 #: 
