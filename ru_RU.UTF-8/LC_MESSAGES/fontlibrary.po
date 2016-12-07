@@ -246,12 +246,12 @@ msgstr "Стилей"
 #. font
 #: 
 msgid "Fonts"
-msgstr "Шрифтов"
+msgstr "Шрифты"
 
 #. font
 #: 
 msgid "Type here to change preview text"
-msgstr "Введите свой текст образца"
+msgstr "Введите свой текст для предпросмотра"
 
 #. font
 #: 
@@ -261,17 +261,17 @@ msgstr "история шрифтa"
 #. font
 #: 
 msgid "Family Details"
-msgstr ""
+msgstr "Детали семейства"
 
 #. font
 #: 
 msgid "edit"
-msgstr ""
+msgstr "редактирование"
 
 #. font
 #: 
 msgid "Family"
-msgstr ""
+msgstr "Семейство"
 
 #. font
 #: 
@@ -355,7 +355,7 @@ msgstr ""
 #. font
 #: 
 msgid "Colour and Background"
-msgstr ""
+msgstr "Цвет и фон"
 
 #. font
 #: 
@@ -390,17 +390,17 @@ msgstr "Жирный"
 #. font
 #: 
 msgid "Designer"
-msgstr ""
+msgstr "Дизайнер"
 
 #. font
 #: 
 msgid "Full Language Support"
-msgstr ""
+msgstr "Полная поддержка языков"
 
 #. font
 #: 
 msgid "Light"
-msgstr ""
+msgstr "Легкий"
 
 #. font
 #: 
@@ -440,7 +440,7 @@ msgstr ""
 #. font sample
 #: 
 msgid "Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz 1234567890 $#*"
-msgstr "Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz 1234567890 $#*"
+msgstr "Аа Бб Вв Гг Дд Ее Ёё Жж Зз Ии Йй Кл Лл Мм Нн Оо Пп Рр Сс Тт Уу Фф Хх Цц Чч Шш Щщ Ъъ Ыы Ьь Ээ Юю Яя 1234567890 $#*"
 
 #. font sample
 #: 
@@ -455,12 +455,12 @@ msgstr "Детали"
 #. font style
 #: 
 msgid "Subfamily"
-msgstr ""
+msgstr "Под семейство"
 
 #. font style
 #: 
 msgid "Style"
-msgstr "стиль"
+msgstr "Стиль"
 
 #. font style
 #: 
@@ -485,12 +485,12 @@ msgstr "Условия предоставления услуг"
 #. footer
 #: 
 msgid "Found Bugs"
-msgstr "Нашли ошибки"
+msgstr "Нашли ошибку"
 
 #. footer
 #: 
 msgid "Made in %1$s"
-msgstr "Сделано %1$s"
+msgstr "Сделано в %1$s"
 
 #. footer
 #: 
@@ -550,7 +550,7 @@ msgstr "Откройте наш каталог и просмотрите нов�
 #. homepage
 #: 
 msgid "Share your fonts"
-msgstr "Поделитесь шрифтами"
+msgstr "Поделитесь вашими шрифтами"
 
 #. homepage
 #: 
@@ -637,7 +637,7 @@ msgstr "В поиске переводчиков"
 #. homepage
 #: 
 msgid "Learn how you can help internationalize Font Library"
-msgstr "Узнайте, как вы можете интернационализировать Опэн Фонт Лайбрари"
+msgstr "Узнайте как вы можете помочь с переводом Font Library"
 
 #. homepage
 #: 
@@ -762,12 +762,12 @@ msgstr "Добро пожаловать в Font Library!"
 #. member
 #: 
 msgid "If you are ready to contribute your fonts to our collection, you can create a font family and upload your font files using our easy form."
-msgstr "If you are ready to contribute your fonts to our collection, you can создайте семейство шрифтов и загрузите ваши файлы шрифтов, используя нашу простую форму."
+msgstr "Если вы готовы предоставить ваши шрифты нашей коллекции, вы можете создайть семейство шрифтов и загрузить ваши файлы шрифтов, используя нашу простую форму."
 
 #. member
 #: 
 msgid "We are interested in fonts that you yourself have designed and that you have made available under a free font license."
-msgstr "Мы заинтересованы в шрифтах "
+msgstr "Мы заинтересованы в шрифтах созданых вами и которые вы хотите предоставить под лицензией 'free font licence'."
 
 #. member
 #: 
@@ -812,7 +812,7 @@ msgstr "Участник с"
 #. member
 #: 
 msgid "edit member info"
-msgstr ""
+msgstr "редактирование информации пользователя"
 
 #. member
 #: 
@@ -857,12 +857,12 @@ msgstr "Шрифт находится на валидации."
 #. member
 #: 
 msgid "user member page on the Font Library"
-msgstr ""
+msgstr "страница пользователя на Font Library"
 
 #. member
 #: 
 msgid "Create a Font"
-msgstr ""
+msgstr "Создать шрифт"
 
 #. member
 #: 
@@ -962,12 +962,12 @@ msgstr "Добро пожаловать"
 #. sign up
 #: 
 msgid "Your registration was successful. We are looking forward to your participation."
-msgstr ""
+msgstr "Ваша регистрация прошла успешно."
 
 #. sign up
 #: 
 msgid "Please sign in now with your username and password."
-msgstr ""
+msgstr "Теперь вы можете войти в систему используя ваш логин и пароль."
 
 #. sign up
 #: 
@@ -1052,7 +1052,7 @@ msgstr "Если вам требуется больше информации"
 #. sign up
 #: 
 msgid "You can consult our <a href=\"%1$s\">guidebook</a> to find more answers to your questions on using the site, uploading fonts and connecting with the Font Library community."
-msgstr ""
+msgstr "Вы можете прочитать наше <a href=\"%1$s\">руководство</a> чтобы найти ответы на интересующие вас вопросы по поводу использования сайта, загрузки шрифтов и контакта с обществом Font Library"
 
 #. sign up
 #: 
@@ -1167,12 +1167,12 @@ msgstr "Добро пожаловать в Open Font Library!"
 #. homepage
 #: 
 msgid "uploaded font families"
-msgstr ""
+msgstr "загрузить семейство шрифтов"
 
 #. homepage
 #: 
 msgid "uploaded font files"
-msgstr ""
+msgstr "загрузить файлы шрифтов"
 
 #. homepage
 #: 
@@ -1187,17 +1187,17 @@ msgstr ""
 #. font
 #: 
 msgid "styles"
-msgstr ""
+msgstr "стили"
 
 #. Sign in
 #: 
 msgid "Sign in"
-msgstr ""
+msgstr "Вход"
 
 #. Sign up
 #: 
 msgid "Sign up"
-msgstr ""
+msgstr "Регистрация"
 
 #: 
 msgid "Serif"
@@ -1289,7 +1289,7 @@ msgstr[3] "%1$d стили"
 #. language
 #: 
 msgid "Partial Language Support"
-msgstr ""
+msgstr "Частичная языковая поддержка"
 
 #. language
 #: 
@@ -1298,7 +1298,7 @@ msgstr ""
 
 #: 
 msgid "Contact us"
-msgstr ""
+msgstr "Свяжитесь с нами"
 
 #: 
 msgid "For questions, please email <a href=\"mailto:%1$s\">%1$s</a>"
