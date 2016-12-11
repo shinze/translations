@@ -438,11 +438,6 @@ msgstr "Pchnąć w tę łódź jeża lub ośm skrzyń fig."
 
 #. font sample
 #: 
-msgid "Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz 1234567890 $#*"
-msgstr "Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz 1234567890 $#*"
-
-#. font sample
-#: 
 msgid "Somehow, although he is the smallest office boy around the place, none of the other lads pick on him. Scuffling and fighting almost has ceased since Kerensky came to work. That's only one of the nicknames of Leo Kobreen, and was assigned to him because of a considerable facial resemblance to the perpetually fleeing Russian statesman, and, too, because both wore quite formal standing collars."
 msgstr ""
 
