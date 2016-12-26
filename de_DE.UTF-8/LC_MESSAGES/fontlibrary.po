@@ -332,7 +332,7 @@ msgstr "Sie können diese Schriftart nun in Ihrer CSS-Datei verwenden."
 
 #. font
 msgid "Here is an example of a paragraph set in %1$s."
-msgstr "Hier ist ein Beispiel eines Absatzes in%1$s."
+msgstr "Hier ist ein Beispiel eines Absatzes in %1$s."
 
 #. font
 msgid "Regular"
