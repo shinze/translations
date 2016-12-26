@@ -38,11 +38,11 @@ msgstr "Zuerst <a href=\"%1$s\">eine Schrift-Familie erstellen</a>, dann lädst 
 
 #. catalogue
 msgid "Font Catalogue for the Font Library"
-msgstr ""
+msgstr "Schriftartenkatalog der Font Library"
 
 #. catalogue
 msgid "Public Domain (not a license)"
-msgstr "Gemeinfreiheit ()"
+msgstr "Gemeinfrei (Public Domain, keine Lizenz)"
 
 #. contact
 msgid "Contact"
@@ -50,7 +50,7 @@ msgstr "Kontakt"
 
 #. contact
 msgid "Contact %1$s"
-msgstr "Kontact %1$s"
+msgstr "Kontakt %1$s"
 
 #. contact
 msgid "To"
@@ -234,11 +234,11 @@ msgstr "Beschreibung"
 
 #. font
 msgid "Use this font"
-msgstr "Diese Schrift benutzen"
+msgstr "Diese Schrift verwenden"
 
 #. font
 msgid "To use this font in your website add the following code to the head of your html page:"
-msgstr "Um diese Schrit auf deiner Webseite zu benutzen, füge den folgenden Code im Head Bereich deiner HTML Seite ein:"
+msgstr "Um diese Schrit auf deiner Webseite zu verwenden, füge den folgenden Code im \"Head\"-Bereich deiner HTML Seite ein:"
 
 #. font
 msgid "Licenses"
@@ -267,7 +267,7 @@ msgstr "Über diese Schrift"
 #. font
 msgid "%1$s was added by <a href=\"%2$s\">%3$s</a> %4$d day ago"
 msgid_plural "%1$s was added by <a href=\"%2$s\">%3$s</a> %4$d days ago"
-msgstr[0] "%1$s wurde von <a href=\"%2$s\">%3$s</a> %4$d Tag hinzugefügt vor"
+msgstr[0] "%1$s wurde von <a href=\"%2$s\">%3$s</a> vor %4$d Tagen hinzugefügt "
 msgstr[1] "%1$s wurde von <a href=\"%2$s\">%3$s</a> %4$d Tage hinzugefügt vor"
 
 #. font
@@ -388,7 +388,7 @@ msgstr "Nutzungsbedingungen"
 
 #. footer
 msgid "Found Bugs"
-msgstr "Fehler Gefunden"
+msgstr "Fehler gefunden"
 
 #. footer
 msgid "Made in %1$s"
@@ -969,7 +969,7 @@ msgid "Display"
 msgstr ""
 
 msgid "Monospaced"
-msgstr ""
+msgstr "dicktengleiche Schriften"
 
 msgid "Dingbat"
 msgstr ""
@@ -978,13 +978,13 @@ msgid "Blackletter"
 msgstr ""
 
 msgid "Follow on <a href=\"%1$s\">Twitter</a>"
-msgstr ""
+msgstr "Auf <a href=\"%1$s\">Twitter</a> folgen"
 
 msgid "Like on <a href=\"%1$s\">Facebook</a>"
-msgstr ""
+msgstr "Auf <a href=\"%1$s\">Facebook</a> folgen"
 
 msgid "Pin on <a href=\"%1$s\">Pinterest</a>"
-msgstr ""
+msgstr "Auf <a href=\"%1$s\">Pinterest</a> folgen."
 
 #. font
 msgid "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>added today</span>"
@@ -1006,13 +1006,13 @@ msgstr "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>ges
 msgid "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>added %3$d day ago</span>"
 msgid_plural "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>added %3$d days ago</span>"
 msgstr[0] "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>%3$d Tag hinzugefügt</span>"
-msgstr[1] "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>%3$d Tage hinzugefügt</span>"
+msgstr[1] "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>Vor %3$d Tagen hinzugefügt</span>"
 
 #. font
 msgid "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>updated %3$d day ago</span>"
 msgid_plural "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>updated %3$d day ago</span>"
 msgstr[0] "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>%3$d Tag aktualisiert</span>"
-msgstr[1] "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>%3$d Tage aktualisiert</span>"
+msgstr[1] "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>Vor %3$d Tagen aktualisiert</span>"
 
 #. font style
 msgid "%1$d style"
