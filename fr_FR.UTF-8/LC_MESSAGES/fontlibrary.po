@@ -301,7 +301,7 @@ msgstr "Licences"
 #. font
 #: 
 msgid "Glyph Count"
-msgstr ""
+msgstr "Nombre de glyphes"
 
 #. font
 #: 
@@ -343,7 +343,7 @@ msgstr "Mis à jour"
 #. font
 #: 
 msgid "Foundry"
-msgstr "Forge"
+msgstr "Fonderie"
 
 #. font
 #: 
@@ -378,12 +378,12 @@ msgstr "Active"
 #. font
 #: 
 msgid "Publication Date"
-msgstr ""
+msgstr "Date de plublication"
 
 #. font
 #: 
 msgid "Bold"
-msgstr "Bold"
+msgstr "Gras"
 
 #. font
 #: 
@@ -398,22 +398,22 @@ msgstr "Support linguistique complet"
 #. font
 #: 
 msgid "Light"
-msgstr ""
+msgstr "Léger"
 
 #. font
 #: 
 msgid "Now you can use this font in your css file."
-msgstr ""
+msgstr "Vous pouvez maintenant utiliser cette police dans vos css"
 
 #. font
 #: 
 msgid "Here is an example of a paragraph set in %1$s."
-msgstr ""
+msgstr "Un exemple de paragraphe affiché en %1$s."
 
 #. font
 #: 
 msgid "Regular"
-msgstr ""
+msgstr "Courant"
 
 #. font sample
 #: 
@@ -423,7 +423,7 @@ msgstr "Mon pauvre zébu ankylosé choque deux fois ton wagon jaune"
 #. font sample
 #: 
 msgid "But the black kitten had been finished with earlier in the afternoon, and so, while Alice was sitting curled up in a corner of the great arm-chair, half talking to herself and half asleep, the kitten had been having a grand game of romps with the ball of worsted Alice had been trying to wind up, and had been rolling it up and down till it had all come undone again; and there it was, spread over the hearth-rug, all knots and tangles, with the kitten running after its own tail in the middle."
-msgstr ""
+msgstr "Alice eut de la peine à attraper le bébé. C’était un petit être d’une forme étrange qui tenait ses bras et ses jambes étendus dans toutes les directions ; « Tout comme une étoile de mer, » pensait Alice. La pauvre petite créature ronflait comme une machine à vapeur lorsqu’elle l’attrapa, et ne cessait de se plier en deux, puis de s’étendre tout droit, de sorte qu’avec tout cela, pendant les premiers instants, c’est tout ce qu’elle pouvait faire que de le tenir."
 
 #. font sample
 #: 
@@ -438,7 +438,7 @@ msgstr "Buvez de ce whisky que le patron juge fameux."
 #. font sample
 #: 
 msgid "Somehow, although he is the smallest office boy around the place, none of the other lads pick on him. Scuffling and fighting almost has ceased since Kerensky came to work. That's only one of the nicknames of Leo Kobreen, and was assigned to him because of a considerable facial resemblance to the perpetually fleeing Russian statesman, and, too, because both wore quite formal standing collars."
-msgstr ""
+msgstr "Au début de la guerre, en 1914, Kerenski fait peu parler de lui au sein de la Douma. Comme beaucoup d’hommes politiques russes, il est toutefois persuadé que le conflit va conduire à l’effondrement du régime tsariste. Il se construit un profil politique d’opposant absolu à l’autocratie tout en refusant les mots d’ordre marxistes."
 
 #. font style
 #: 
@@ -448,7 +448,7 @@ msgstr "Détails"
 #. font style
 #: 
 msgid "Subfamily"
-msgstr "Subfamily"
+msgstr "Sous-famille"
 
 #. font style
 #: 
@@ -458,7 +458,7 @@ msgstr "Style"
 #. font style
 #: 
 msgid "Weight"
-msgstr "Poids"
+msgstr "Graisse"
 
 #. font style
 #: 
@@ -473,7 +473,7 @@ msgstr "Crédits"
 #. footer
 #: 
 msgid "Terms of Service"
-msgstr "Conditions d'utilisation"
+msgstr "Conditions d’utilisation"
 
 #. footer
 #: 
@@ -503,7 +503,7 @@ msgstr "Envoyez-nous un courriel"
 #. header
 #: 
 msgid "Guidebook"
-msgstr "Guidebook"
+msgstr "Manuel d’utilisation"
 
 #. header
 #: 
@@ -558,7 +558,7 @@ msgstr "inscription"
 #. homepage
 #: 
 msgid "sign in"
-msgstr "Connexion"
+msgstr "connexion"
 
 #. homepage
 #: 
@@ -573,7 +573,7 @@ msgstr "Toutes ces polices peuvent être intégrées sans peine pour le design d
 #. homepage
 #: 
 msgid "Read about Open Fonts"
-msgstr "A propos des polices libres"
+msgstr "À propos des polices libres"
 
 #. homepage
 #: 
@@ -614,7 +614,7 @@ msgstr "Parcourez le catalogue complet"
 #. homepage
 #: 
 msgid "All of the fonts that appear on this site come with the freedom to use, study, share and remix them."
-msgstr "Toutes les polices disponibles sur ce site peuvent être utilisées,étudiées,partagées et modifiées librement."
+msgstr "Toutes les polices disponibles sur ce site peuvent être utilisées, étudiées, partagées et modifiées librement."
 
 #. homepage
 #: 
@@ -624,7 +624,7 @@ msgstr "Recherchons traducteurs"
 #. homepage
 #: 
 msgid "Learn how you can help internationalize Font Library"
-msgstr "Apprenez comment vous pouvez aider à l'internationalisation de Font Library."
+msgstr "Apprenez comment vous pouvez aider à l’internationalisation de Font Library."
 
 #. homepage
 #: 
@@ -644,27 +644,27 @@ msgstr "Font Library est TOUTES les polices. Téléchargement libre et support d
 #. homepage
 #: 
 msgid "The Font Library is all fonts."
-msgstr "Font Library est TOUTES les polices."
+msgstr "Font Library est toutes les polices."
 
 #. homepage
 #: 
 msgid "Popular Fonts"
-msgstr "Polices Populaires"
+msgstr "Polices populaires"
 
 #. language
 #: 
 msgid "Hebrew"
-msgstr "Hebreu"
+msgstr "Hébreu"
 
 #. language
 #: 
 msgid "Basic Cyrillic"
-msgstr ""
+msgstr "Cyrillique basique"
 
 #. language
 #: 
 msgid "Basic Latin"
-msgstr ""
+msgstr "Latin basique"
 
 #. language
 #: 
@@ -674,17 +674,17 @@ msgstr "Support linguistique"
 #. language
 #: 
 msgid "Missing glyphs:"
-msgstr "Glyphs manquants"
+msgstr "Glyphes manquants"
 
 #. language
 #: 
 msgid "Arabic"
-msgstr "Arabic"
+msgstr "Arabe"
 
 #. language
 #: 
 msgid "Basic Greek"
-msgstr ""
+msgstr "Grec basique"
 
 #. language
 #: 
@@ -724,22 +724,22 @@ msgstr "Vietnamien"
 #. language
 #: 
 msgid "Western European"
-msgstr ""
+msgstr "Europe de l’ouest"
 
 #. language
 #: 
 msgid "View complete language list"
-msgstr ""
+msgstr "Voir la liste complète des langues"
 
 #. language
 #: 
 msgid "Languages and Orthographies for the Font Library"
-msgstr ""
+msgstr "Langues et orthographie de Font Library"
 
 #. member
 #: 
 msgid "It looks like %1$s hasn't uploaded any fonts yet."
-msgstr "On dirait que %1$s n'as pas encore proposé de police."
+msgstr "On dirait que %1$s n’as pas encore proposé de police."
 
 #. member
 #: 
@@ -784,12 +784,12 @@ msgstr "Nom"
 #. member
 #: 
 msgid "Homepage"
-msgstr "Site web"
+msgstr "Site Web"
 
 #. member
 #: 
 msgid "Membership Status"
-msgstr "Statut d'adhésion"
+msgstr "Statut d’adhésion"
 
 #. member
 #: 
@@ -844,32 +844,32 @@ msgstr "Les polices d'écriture suivantes sont en train d'être examinées."
 #. member
 #: 
 msgid "user member page on the Font Library"
-msgstr "Page de l'utilisateur sur Front Library"
+msgstr "Page de l’utilisateur sur Front Library"
 
 #. member
 #: 
 msgid "Create a Font"
-msgstr ""
+msgstr "Créer une police"
 
 #. member
 #: 
 msgid "Librarian"
-msgstr ""
+msgstr "Libraire"
 
 #. member settings
 #: 
 msgid "Librarians"
-msgstr ""
+msgstr "Libraires"
 
 #. member settings
 #: 
 msgid "Submit"
-msgstr ""
+msgstr "Envoyer"
 
 #. member settings
 #: 
 msgid "Your password has been changed. Your settings have been saved!"
-msgstr ""
+msgstr "Votre mot de passe a été changé. Vos préférences enrengistrées."
 
 #. navigation
 #: 
@@ -889,7 +889,7 @@ msgstr "Résultats"
 #. sign in
 #: 
 msgid "Username"
-msgstr "Nom d'utilisateur"
+msgstr "Nom d’utilisateur"
 
 #. sign in
 #: 
@@ -899,12 +899,12 @@ msgstr "Mot de passe"
 #. sign in
 #: 
 msgid "Need Help"
-msgstr "Besoin d'aide"
+msgstr "Besoin d’aide"
 
 #. sign in
 #: 
 msgid "You are not a member"
-msgstr "Vous n'êtes pas membre ?"
+msgstr "Vous n’êtes pas membre"
 
 #. sign in
 #: 
@@ -939,7 +939,7 @@ msgstr "Réinitialisation du mot de passe"
 #. sign in
 #: 
 msgid "You can recover it by entering your email address and username. You will receive an email with a link to reset your password."
-msgstr "Vous pouvez le récupérer en introduisant votre adresse e-mail et nom d'utilisateur. Vous recevrez un courriel avec un lien pour réinitialiser votre mot de passe."
+msgstr "Vous pouvez le récupérer en introduisant votre adresse e-mail et nom d’utilisateur. Vous recevrez un courriel avec un lien pour réinitialiser votre mot de passe."
 
 #. sign up
 #: 
@@ -954,12 +954,12 @@ msgstr "Votre inscription a été effectuée avec succès. Nous attendons votre 
 #. sign up
 #: 
 msgid "Please sign in now with your username and password."
-msgstr "Connectez-vous avec votre nom d'utilisateur et votre mot de passe."
+msgstr "Connectez-vous avec votre nom d’utilisateur et votre mot de passe."
 
 #. sign up
 #: 
 msgid "Enter the words in the image"
-msgstr "Introduisez les mots dans l'image"
+msgstr "Introduisez les mots dans l’image"
 
 #. sign up
 #: 
@@ -1014,7 +1014,7 @@ msgstr "La mission de Font Library consiste à promouvoir vos libertés étant d
 #. sign up
 #: 
 msgid "Head on over to the <a href=\"%1$s\">sign in</a> page."
-msgstr "Head on over to the <a href=\"%1$s\">sign in</a> page."
+msgstr "Aller sur la page <a href=\"%1$s\">d’inscription</a>"
 
 #. sign up
 #: 
@@ -1024,22 +1024,22 @@ msgstr "Vérifiez votre email"
 #. sign up
 #: 
 msgid "You should have received a confirmation email at the address you specified."
-msgstr "Vous devriez avoir reçu un e-mail de confirmation à l'adresse que vous avez spécifiée."
+msgstr "Vous devriez avoir reçu un e-mail de confirmation à l’adresse que vous avez spécifiée."
 
 #. sign up
 #: 
 msgid "In case you forget your password"
-msgstr "En cas d'oubli de mot de passe"
+msgstr "En cas d’oubli de mot de passe"
 
 #. sign up
 #: 
 msgid "If you need more information"
-msgstr "Si vous avez besoin de plus d'informations"
+msgstr "Si vous avez besoin de plus d’informations"
 
 #. sign up
 #: 
 msgid "You can consult our <a href=\"%1$s\">guidebook</a> to find more answers to your questions on using the site, uploading fonts and connecting with the Font Library community."
-msgstr "Vous pouvez consulter notre <a href=\"%1$s\">guidebook</a> pour plus de réponses à vos questions sur l'utilisation du site, téléverser des polices et joindre Font Library."
+msgstr "Vous pouvez consulter notre <a href=\"%1$s\">guidebook</a> pour plus de réponses à vos questions sur l’utilisation du site, téléverser des polices et joindre Font Library."
 
 #. sign up
 #: 
@@ -1049,7 +1049,7 @@ msgstr "En utilisant notre site vous acceptez d'être lié(e) par notre <a href=
 #. sign up
 #: 
 msgid "terms and conditions"
-msgstr "conditions d'utilisation"
+msgstr "conditions d’utilisation"
 
 #. sign up
 #: 
@@ -1069,7 +1069,7 @@ msgstr "Introduisez votre nouveau mot de passe à gauche et confirmez-le en le t
 #. sign up
 #: 
 msgid "By signing up you can share and remix fonts, and get help from our global community of designers."
-msgstr "En nous rejoignant, vous pouvez partager, remixer des polices et recevoir de l'aide de notre communauté de designers."
+msgstr "En nous rejoignant, vous pouvez partager, remixer des polices et recevoir de l’aide de notre communauté de designers."
 
 #. tags
 #: 
@@ -1079,12 +1079,12 @@ msgstr "police, open font library, bibliothèque, open source, forge, police, ca
 #. terms
 #: 
 msgid "Copyright"
-msgstr "Droits d'auteurs"
+msgstr "Droits d’auteurs"
 
 #. terms
 #: 
 msgid "All fonts available on this site are copyrighted by their creators, and are licensed individually for your use. You can find the license for each font by visiting the font's profile page. By downloading the fonts you agree to be bound by the terms of the license."
-msgstr "Toutes les polices d'écriture de ce site sont couvertes par le droit d'auteur et peuvent être utilisées pour un usage personnel. Vous pouvez trouver la licence pour chaque police en visitant la page de profil de la police. En téléchargeant la police, vous acceptez d'être lié à cette licence."
+msgstr "Toutes les polices d’écriture de ce site sont couvertes par le droit d’auteur et peuvent être utilisées pour un usage personnel. Vous pouvez trouver la licence pour chaque police en visitant la page de profil de la police. En téléchargeant la police, vous acceptez d’être lié à cette licence."
 
 #. terms
 #: 
@@ -1104,7 +1104,7 @@ msgstr "En collaborant à ce site, vous acceptez de rendre vos contributions dis
 #. terms
 #: 
 msgid "Disclaimer"
-msgstr "Conditions d'utilisation"
+msgstr "Conditions d’utilisation"
 
 #. terms
 #: 
@@ -1124,7 +1124,7 @@ msgstr "Toutes le polices sont publiées sous la licence spécifiée par leurs c
 #. terms
 #: 
 msgid "Terms"
-msgstr "Terms"
+msgstr "Termes"
 
 #. translation
 #: 
@@ -1139,7 +1139,7 @@ msgstr "Courriel"
 #. footer
 #: 
 msgid "EMAIL US"
-msgstr ""
+msgstr "ENNVOYEZ-NOUS UN EMAIL"
 
 #. homepage
 #: 
@@ -1154,27 +1154,27 @@ msgstr "Bienvenue sur Open Font Library !"
 #. homepage
 #: 
 msgid "uploaded font families"
-msgstr ""
+msgstr "Familles de polices téléversées"
 
 #. homepage
 #: 
 msgid "uploaded font files"
-msgstr ""
+msgstr "Fichiers de polices téléversés"
 
 #. homepage
 #: 
 msgid "contributors"
-msgstr ""
+msgstr "Contributeurs"
 
 #. font
 #: 
 msgid "Your font is currently under review by our Librarians. It has been flagged as %0$s."
-msgstr ""
+msgstr "Votre police est actuellement en relecture pas un de nos Libraire. Elle a été indiquée comme %0$s."
 
 #. font
 #: 
 msgid "styles"
-msgstr ""
+msgstr "styles"
 
 #. Sign in
 #: 
@@ -1229,7 +1229,7 @@ msgstr "Retrouvez-nous sur <a href=\"%1$s\">Pinterest</a>"
 #. font
 #: 
 msgid "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>added today</span>"
-msgstr "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>ajouté aujourd'hui</span>"
+msgstr "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>ajouté aujourd’hui</span>"
 
 #. font
 #: 
@@ -1279,9 +1279,9 @@ msgstr "Pas de support linguistique"
 
 #: 
 msgid "Contact us"
-msgstr ""
+msgstr "Nous contacter"
 
 #: 
 msgid "For questions, please email <a href=\"mailto:%1$s\">%1$s</a>"
-msgstr ""
+msgstr "Envoyez vos questions par email <a href=\"mailto:%1$s\">%1$s</a>"
 
